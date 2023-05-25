@@ -1,4 +1,4 @@
-English Enclist
+Plants Enclist
 
 <img src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https%3A%2F%2Fencyclolist.uedasoft.com%2Flist%2Fhttps%253A%252F%252Fraw.githubusercontent.com%252FUedaTakeyuki%252FEncLst%252Fmain%252Fen%252Fplants%252Fplants.enclst"/>
 
