@@ -1,1 +1,1 @@
-Encyclolist España
+Encyclolist Español
