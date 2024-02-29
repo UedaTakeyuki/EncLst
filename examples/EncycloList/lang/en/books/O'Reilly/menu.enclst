@@ -5,3 +5,5 @@ go.enclst | go
 english.enclst | english
 C++.enclst | C++
 AWK.enclst | AWK
+RISC-V.enclst | RISC-V
+DataScience.enclst | Data Science
