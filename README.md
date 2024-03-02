@@ -111,5 +111,5 @@ https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia:
 
 # Application examples
 
-- [EncycloList](https://encyclolist.uedasoft.com/): A web application to read an enclst of <b>website URL</b>.
-- [HS](https://hs.uedasoft.com/channel2/home): A web application to read an enclst of <b>youtube contents</b>.
+- [EncycloList](https://encyclolist.uedasoft.com/): A web application to read a website from enclst of <b>website URL</b>.
+- [HS](https://hs.uedasoft.com/channel2/home): A web application to watch a contents from enclst of <b>youtube contents</b>.
