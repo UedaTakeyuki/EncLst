@@ -107,6 +107,7 @@ Plant Encyclopedias
 https://www.bhg.com/gardening/plant-dictionary/ | Plant Encyclopedia
 
 https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia:
+```
 
 # Application examples
 
