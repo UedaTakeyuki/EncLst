@@ -3,10 +3,10 @@
 The **enclst** is a notation rule for a **list** structure simply.
 
 ## What is it for?
-This is for handling **contents list** like web URL or YouTube contents, with **title string** and their **attributes**. 
+This is for what humans write a **list of data** with **attributes** and **title string** that a computer handles the data. Typically the data is something ID like a **URL of a website** or a **content ID of YouTube**. 
 
 ## Why not JSON?
-JSON is a rich notation enough to represent general objects. However, there are the following difficulties, when humans try to write JSON data, they tend to make mistakes, which often results in JSON that is not accepted as an error by the computer:
+JSON is a rich notation enough to represent general objects. However, it is difficult for humans to write JSON data without errors due to as follows:
 
 - string escape: 
 
