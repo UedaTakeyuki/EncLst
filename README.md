@@ -6,7 +6,9 @@ The **enclst** is a notation rule for a **list** structure simply.
 This is for handling **contents list** like web URL or YouTube contents, with **title string** and their **attributes**. 
 
 ## Why not JSON?
+JSON is a rich notation enough to represent general objects. However, there are the following difficulties, when humans try to write JSON data, they tend to make mistakes, which often results in JSON that is not accepted as an error by the computer:
 
+- string escape: 
 
 # Enclst Notation
 
