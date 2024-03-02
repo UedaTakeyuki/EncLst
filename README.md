@@ -1,10 +1,12 @@
 # Enclst
-The Enclst is a text file that satisfies 
+## What is it?
+The **enclst** is a notation rule for a **list** structure simply.
 
-- which the extension is ``.enclist``
-- which is written in the [Enclist Notation](#enclst-notation)
+## What is it for?
+This is for handling **contents list** like web URL or YouTube contents, with **title string** and their **attributes**. 
 
-In case you want to handle files with extensions other than .enclst as enclst, and if you don't want to handle .enclst files as enclst, see below.
+## Why not JSON?
+
 
 # Enclst Notation
 
@@ -111,5 +113,5 @@ https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia:
 
 # Application examples
 
-- [EncycloList](https://encyclolist.uedasoft.com/): A web application to read a website from enclst of <b>website URL</b>.
-- [HS](https://hs.uedasoft.com/channel2/home): A web application to watch a contents from enclst of <b>youtube contents</b>.
+- [EncycloList](https://encyclolist.uedasoft.com/): A web application to read a website from enclst of **website URL**.
+- [HS](https://hs.uedasoft.com/channel2/home): A web application to watch a contents from enclst of **youtube contents**.
