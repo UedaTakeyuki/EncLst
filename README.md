@@ -8,7 +8,12 @@ This is for what humans write a **list of data** with **attributes** and **title
 ## Why not JSON?
 JSON is a rich notation enough to represent general objects including lists. There is no difficulty for a computer program to marshall a list to the Json. However it comes to humans, it isn't easy to write a no-error JSON string due to following reasons:
 
-- string escape: 
+- Prohibition of dangling commas
+- String escaping
+
+Even experienced software engineers write a JSON by hand carefully, its impossible to continue writing without any errors. Furthermore, asking **non-engineering end users** to input **error-free JSON** is unreasonable.
+
+
 
 # Enclst Notation
 
