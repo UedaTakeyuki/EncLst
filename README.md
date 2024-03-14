@@ -11,9 +11,9 @@ JSON is a rich notation enough to represent general objects including lists. The
 - Prohibition of dangling commas
 - String escaping
 
-Even experienced software engineers write a JSON by hand carefully, its impossible to continue writing without any errors. Furthermore, asking **non-engineering end users** to input **error-free JSON** is unreasonable.
+Even experienced software engineers (like me :-) write a JSON by hand carefully, its impossible to continue writing without any errors. Furthermore, asking **non-engineering end users** to input **error-free JSON** is unreasonable.
 
-
+This is exactly the  my motivation of creating enclst. Json is impossible for a non-engineer end user. More succinct alternative must be necessary.
 
 # Enclst Notation
 
