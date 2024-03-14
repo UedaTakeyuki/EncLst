@@ -6,7 +6,7 @@ The enclst is a notation rule for **humans** to write a list structure **concise
 This is for what humans write a **list of data** with **attributes** and **title string** that a computer handles the data. Typically the data is something ID like a **URL of a website** or a **content ID of YouTube**. 
 
 ## Why not JSON?
-JSON is a rich notation enough to represent general objects including lists. However, it is difficult for humans to write JSON data without errors due to as follows:
+JSON is a rich notation enough to represent general objects including lists. There is no difficulty for a computer program to marshall a list to the Json. However it comes to humans, it isn't easy to write a no-error JSON string due to following reasons:
 
 - string escape: 
 
