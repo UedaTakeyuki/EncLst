@@ -26,7 +26,7 @@ https://www.bhg.com/gardening/plant-dictionary/ | Plant Encyclopedia
 https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia: Complete Online Plant and Flower ...
 https://www.picturethisai.com/wiki | Online Plant Encyclopedia and Common Popular Plants
 ```
-![エビフライトライアングル](./draw.io/overallView/overallview.jpg "サンプル")
+![エビフライトライアングル](draw.io/overallView/overallview.jpg "サンプル")
 
 The ``first line`` is the **Title** of this Enclist which is separated from the remaining **ItemList** by a **blank line** at ``second line``.
 
