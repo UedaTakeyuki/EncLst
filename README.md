@@ -20,13 +20,13 @@ This is exactly my motivation for creating enclst. JSON is impossible for a non-
 The **Enclst Notation** consists of **Title** string and **ItemList** separated by a **blank line**, fx:
 
 ```
-Plant Encyclopedias
+Plant Encyclopedias, this is the title of this Enclst
 
 https://www.bhg.com/gardening/plant-dictionary/ | Plant Encyclopedia
 https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia: Complete Online Plant and Flower ...
 https://www.picturethisai.com/wiki | Online Plant Encyclopedia and Common Popular Plants
 ```
-![エビフライトライアングル](draw.io/overallView/overallview.jpg "サンプル")
+![](draw.io/overallView/overallview.jpg)
 
 The ``first line`` is the **Title** of this Enclist which is separated from the remaining **ItemList** by a **blank line** at ``second line``.
 
