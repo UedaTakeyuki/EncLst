@@ -109,10 +109,10 @@ https://www.picturethisai.com/wiki | Online Plant Encyclopedia and Common Popula
 ### No blank line
 In case there are **no blank lines**, the expected Encyclolist application behaviour is **undefined**. 
 
-The application strives to guess if the first line is the title line or the first line of Item list. It's reasonable to hope that future versions of the application will be smart enough.　But the earlier version of the application might recognize that the first line is the **title** and this ecnlst has **blank ItemList** which has no item. This is probably not the result you wanted, you simply forgot to start with a blank line to omit the title.
+The application strives to guess if the first line is the title line or the first line of Item list. It's reasonable to hope that future versions of the application will be smart enough.　But the earlier version of the application might recognize that the first line is the **title** and this ecnlst has **blank ItemList** that has no item. It may not be probable the result you wanted, you forgot to start with a blank line to omit the title.
 
 ### Several blank lines
-In case there are **several blank lines**, The Encyclolist application recognizes as **title** of the first line and as **ItemList** as remaining. Also, the Encyclolist application simply discards lines that cannot be recognized as item. As result, these multi-blank line enclst is recognized as the same as normal single blank line enclst
+In case there are **several blank lines**, The Encyclolist application recognizes as **title** of the first line and as **ItemList** as remaining. Also, the Encyclolist application simply discards lines that cannot be recognized as items. As a result, these multi-blank line enclst is recognized as the same as normal single blank line enclst
 
 ```
 Plant Encyclopedias
@@ -124,5 +124,6 @@ https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia:
 
 # Application examples
 
-- [EncycloList](https://encyclolist.uedasoft.com/): A web application to read a website from enclst of **website URL**.
+- [EncycloList](https://encyclolist.uedasoft.com/): A Browser to show an enclist of **website URL** and **its title**. for ex:
+  - 
 - [HS](https://hs.uedasoft.com/channel2/home): A web application to watch a contents from enclst of **youtube contents**.
