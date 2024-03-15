@@ -6,14 +6,14 @@ The enclst is a notation rule for **humans** to write a list structure **concise
 This is for what humans write a **list of data** with **attributes** and **title string** that a computer handles the data. Typically the data is something ID like a **URL of a website** or a **content ID of YouTube**. 
 
 ## Why not JSON?
-JSON is a rich notation enough to represent general objects including lists. There is no difficulty for a computer program to marshall a list to the Json. However it comes to humans, it isn't easy to write a no-error JSON string due to following reasons:
+JSON is a rich notation enough to represent general objects including lists. There is no difficulty for a computer program to handle a JSON. However it comes to humans, it isn't easy to write a no-error JSON string. When you try to write JSON by hand, you may notice the following pitfalls:
 
 - Prohibition of dangling commas
 - String escaping
 
-Even experienced software engineers (like me :-) write a JSON by hand carefully, its impossible to continue writing without any errors. Furthermore, asking **non-engineering end users** to input **error-free JSON** is unreasonable.
+Even experienced software engineers (like me :-) write a JSON by hand carefully, it's impossible to continue writing without any errors. Furthermore, asking **non-engineering end users** to input **error-free JSON** is unreasonable.
 
-This is exactly the  my motivation of creating enclst. Json is impossible for a non-engineer end user. More succinct alternative must be necessary.
+This is exactly my motivation for creating enclst. JSON is impossible for a non-engineer end user. A more succinct alternative must be necessary.
 
 # Enclst Notation
 
