@@ -24,6 +24,10 @@ The **ItemList** is a multi-line string that is the remainder of Enclst followed
 
 ![](draw.io/Item/Item.jpg)
 
+A value can have several values separated by comma **,**.
+
+Note,
+
 The **Enclst Notation** consists of **Title** string and **ItemList** separated by a **blank line**, fx:
 
 ```
