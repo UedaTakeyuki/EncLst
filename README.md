@@ -31,7 +31,7 @@ Note: In a title string, any escaping is not needed. Even commas "**,**" and ver
 https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
 ```
 
-More detail of Enclst Notation is available [here](documents/Enclst).
+More detail of Enclst Notation is available [here](documents/Enclst.md).
 
 # Application examples
 
