@@ -43,7 +43,7 @@ More detail of Enclst Notation is available [here](documents/Enclst.md).
  
 ## For Youtube Contents
 [HS](https://hs.uedasoft.com/channel2/home): A browser to display the list of Items that consists of a **youtube contents ID** and **its title**, and play the contents in which selected Item.
-- [News](https://hs.uedasoft.com/channel2/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FHS2playlist%2Fmain%2Fnews%2Fnews): News Lives
-- [TV Programs](https://hs.uedasoft.com/channel2/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FHS2playlist%2Fmain%2Ftvprogram%2Fmenu.enclst): TV programs
+- [Nouvelle Francais](https://hs.uedasoft.com/channel2/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FHS2playlist%2Fmain%2Fnews%2Ffrancais.enclst): displaying enclst is [here](https://github.com/UedaTakeyuki/HS2playlist/blob/main/news/francais.enclst).
+- [TV Programs](https://hs.uedasoft.com/channel2/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FHS2playlist%2Fmain%2Ftvprogram%2Fmenu.enclst): displaying enclst is [here](https://github.com/UedaTakeyuki/HS2playlist/blob/main/tvprogram/menu.enclst).
 - [more examples…](https://github.com/UedaTakeyuki/EncLst/wiki/EncycloList-example-pages)
 
