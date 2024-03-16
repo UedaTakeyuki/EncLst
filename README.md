@@ -20,7 +20,7 @@ An **Enclst** is a multi-line string separated by line breaks. The **first line*
 
 ![](draw.io/overallView/overallview.jpg)
 
-The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. 
+The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. An Item is consist of **Value** and **Title** separated by vertical line **|**.
 
 ![](draw.io/Item/Item.jpg)
 
