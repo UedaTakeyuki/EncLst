@@ -39,7 +39,7 @@ More detail of Enclst Notation is available [here](documents/Enclst.md).
 [EncycloList](https://encyclolist.uedasoft.com/): A browser to display the list of Items that consists of a **website URL** and a **its title**, and opens the URL in which selected Item.
 - [British Newspapers](https://encyclolist.uedasoft.com/list/https:%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FEncLst%2Fmain%2Fexamples%2FEncycloList%2Flang%2Fen%2Fnewspaper%2Fnewspaper.enclst): displaying enclst is [here](https://github.com/UedaTakeyuki/EncLst/blob/main/examples/EncycloList/lang/en/newspaper/newspaper.enclst)
 - [Journal Française](https://encyclolist.uedasoft.com/list/https:%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FEncLst%2Fmain%2Fexamples%2FEncycloList%2Flang%2Ffr%2Fjournal%2Fjournal.enclst): displaying enclst is [here](https://github.com/UedaTakeyuki/EncLst/blob/main/examples/EncycloList/lang/fr/journal/journal.enclst)
-  - [more examples…](https://github.com/UedaTakeyuki/EncLst/wiki/EncycloList-example-pages)
+- [more examples…](https://github.com/UedaTakeyuki/EncLst/wiki/EncycloList-example-pages)
  
 ## For Youtube Contents
 [HS](https://hs.uedasoft.com/channel2/home): A browser to display the list of Items that consists of a **youtube contents ID** and **its title**, and play the contents in which selected Item.
