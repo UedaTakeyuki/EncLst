@@ -20,11 +20,11 @@ An **Enclst** is a multi-line string separated by line breaks. The **first line*
 
 ![](draw.io/overallView/overallview.jpg)
 
-The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. An Item is consist of **Value** and **Title** separated by a vertical line **|**.
+The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. An Item is consist of **Value** and **Title** separated by a vertical line "**|**".
 
 ![](draw.io/Item/Item.jpg)
 
-A value can have several values separated by comma **,**.
+A value can have several values separated by comma "**,**".
 
 Note: In a title string, any escaping is not needed. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
 
