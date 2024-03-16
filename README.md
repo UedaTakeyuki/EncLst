@@ -27,8 +27,12 @@ The **ItemList** is a multi-line string that is the remainder of Enclst followed
 A value can have several values separated by comma "**,**".
 
 Note: In a title string, any escaping is not needed. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
+```
+https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, | also OK
+```
 
 More detail of Enclst Notation is available here.
+
 
 The **Enclst Notation** consists of **Title** string and **ItemList** separated by a **blank line**, fx:
 
