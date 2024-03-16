@@ -26,7 +26,7 @@ The **ItemList** is a multi-line string that is the remainder of Enclst followed
 
 A value can have several values separated by comma **,**.
 
-Note: In a title string, any escaping is not needed. Even commas **,** and vertical lines **|**, you can use them **without escaping**.
+Note: In a title string, any escaping is not needed. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
 
 More detail of Enclst Notation is available here.
 
