@@ -42,4 +42,8 @@ More detail of Enclst Notation is available [here](documents/Enclst.md).
   - [more examples…](https://github.com/UedaTakeyuki/EncLst/wiki/EncycloList-example-pages)
  
 ## For Youtube Contents
-- [HS](https://hs.uedasoft.com/channel2/home): A brouser to display the list of Items that consists of a **youtube contents ID** and **its title**, and play the contents in which selected Item.
+[HS](https://hs.uedasoft.com/channel2/home): A browser to display the list of Items that consists of a **youtube contents ID** and **its title**, and play the contents in which selected Item.
+- [News](https://hs.uedasoft.com/channel2/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FHS2playlist%2Fmain%2Fnews%2Fnews): News Lives
+- [TV Programs](https://hs.uedasoft.com/channel2/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FHS2playlist%2Fmain%2Ftvprogram%2Fmenu.enclst): TV programs
+- [more examples…](https://github.com/UedaTakeyuki/EncLst/wiki/EncycloList-example-pages)
+
