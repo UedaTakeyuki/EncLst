@@ -43,18 +43,33 @@ A value can have several values separated by comma "**,**".
 
 
 ### Positional
-These values can be referred to as **positional values** of a value of an item by the library like as:
+These values can be referred to as **positional values** of a value of an item with a library like as:
 
 ```
 item.value.positional[0] // equal "value0"
 ```
 
 ### Named
-A value containing an equal sign can refer to the right side using the left side as a name as follows:
+A value containing an equal sign can refer to the right side using the left side as a name with a library as follows:
 
 ![](draw.io/value/named/named.jpg)
 
-## for More details
+```
+item.value.positional // equal ["value0", "val=kerokero", "attr=gerogero", "value"]
+item.value.named["val"]  // equal "kerokero"
+item.value.named["attr"] // equal "gerogero"
+```
+
+Note that a URL that includes parameters is interpreted as a named parameter, but it is not your expected. So refer to the named parameter only if you are intended, otherwise, refer to a positional parameter.
+
+![](draw.io/value/unintended/unintended.jpg)
+
+```
+item.value.positional[0] // equal "https://iret.media/?s=HA+Proxy+%E7%99%" and it must be your intention.
+item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it must be not your intention.
+```
+
+## For more details
 More detail of Enclst Notation is available [here](documents/Enclst.md).
 
 # API
