@@ -29,24 +29,33 @@ An Item is consist of **Value** and **Title** separated by a vertical line "**|*
 
 ![](draw.io/Item/Item.jpg)
 
+## Title
+Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
+```
+https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
+```
+
 ## Value
 
 A value can have several values separated by comma "**,**".
 
 ![](draw.io/value/positionals/positionals.jpg)
 
-These values are referred as **positional parameters** of a value of an item by the library like as:
+
+### Positional
+These values can be referred to as **positional values** of a value of an item by the library like as:
 
 ```
 item.value.positional[0] // equal "value0"
 ```
 
-Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
-```
-https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
-```
+### Named
 
+## for More details
 More detail of Enclst Notation is available [here](documents/Enclst.md).
+
+# API
+- for JavaScript: [Enclist-core-js](https://github.com/UedaTakeyuki/enclst-core-js/tree/main)
 
 # Application examples
 
