@@ -16,13 +16,20 @@ Even experienced software engineers (like me :-) write a JSON by hand carefully,
 This is exactly my motivation for creating enclst. JSON is impossible for a non-engineer end user. A more succinct alternative must be necessary.
 
 # Enclst Notation
+## The Structure of the Enclst.
 An **Enclst** is a multi-line string separated by line breaks. The **first line** is interpreted as the **title string** for the entire enclst, followed by the **ItemList** separated by **a blank line** illustrated as follow:
 
 ![](draw.io/overallView/overallview.jpg)
 
-The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. An Item is consist of **Value** and **Title** separated by a vertical line "**|**".
+## ItemList
+The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. 
+
+## Item
+An Item is consist of **Value** and **Title** separated by a vertical line "**|**".
 
 ![](draw.io/Item/Item.jpg)
+
+## Value
 
 A value can have several values separated by comma "**,**".
 
