@@ -31,7 +31,7 @@ A value can have several values separated by comma "**,**".
 These values are referred as **positional parameters** of a value of an item by the library like as:
 
 ```
-item.value.positional[0] // "value1"
+item.value.positional[0] // equal "value0"
 ```
 
 Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
