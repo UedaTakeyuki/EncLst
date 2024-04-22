@@ -6,12 +6,12 @@ The Enclst is a notation rule for **humans** to write a list structure **concise
 This is for what humans write a **list of data** with **attributes** and **title string** that a computer handles the data. Typically the data is something ID like a **URL of a website** or a **content ID of YouTube**. 
 
 ## Why not JSON?
-JSON is a rich notation enough to represent general objects including lists. There is no difficulty for a computer program to handle a JSON. However it comes to humans, it isn't easy to write a no-error JSON string. When you try to write JSON by hand, you may notice the following pitfalls:
+JSON is a rich notation enough to represent general objects including lists. There is no difficulty for a computer program to handle a JSON. However it comes to humans, it is **NOT easy to write a no-error JSON string**. When you try to write JSON by hand, you may notice the following pitfalls:
 
 - Prohibition of dangling commas
 - String escaping
 
-Even experienced software engineers (like me :-) write a JSON by hand carefully, it's impossible to continue writing without any errors. Furthermore, asking **non-engineering end users** to input **error-free JSON** is unreasonable.
+Even when experienced software engineers (like me :-) write a JSON by hand carefully, it's impossible to keep writing **without any errors**. Furthermore, asking **non-engineering end users** to input **error-free JSON** is unreasonable.
 
 This is exactly my motivation for creating enclst. JSON is impossible for a non-engineer end user. A more succinct alternative must be necessary.
 
@@ -71,6 +71,38 @@ item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it mus
 
 ## For more details
 More detail of Enclst Notation is available [here](documents/Enclst.md).
+
+# How concise the Enclst is
+
+A following JSON expressing a list of youtube contents; 
+```
+{
+  "title": "Antonio Pappano",
+  "items": [
+    { "text": "Wagner: \"Das Rheingold\" - Pappano, K. Warner, London 2005 Part 1", "content": "cwpxogKjDH0"},
+    { "text": "Wagner: \"Das Rheingold\" - Pappano, K. Warner, London 2005 Part 2", "content": "7yIDvqY8VTE"},
+    { "text": "\"Die Walküre\" - Proms 2005 - Antonio Pappano", "content": "Vq-2PVXfOv4"},
+    { "text": "Wagner - \"Parsifal\" (Antonio Pappano) ACT 1", "content": "FChG1jb_Y&t"},
+    { "text": "Wagner - \"Parsifal\" (Antonio Pappano) ACT 2", "content": "W048GbyGKPs"},
+    { "text": "Wagner - \"Parsifal\" (Antonio Pappano) ACT 3", "content": "GkN9KfpIKA8"}
+  ]
+}
+```
+
+can be written in Enclst as follows:
+
+```
+Antonio Pappano
+
+cwpxogKjDH0 | Wagner: "Das Rheingold" - Pappano, K. Warner, London 2005 Part 1
+7yIDvqY8VTE | Wagner: "Das Rheingold" - Pappano, K. Warner, London 2005 Part 2
+Vq-2PVXfOv4 | "Die Walküre" - Proms 2005 - Antonio Pappano
+FChG1jb_Y&t | Wagner - "Parsifal" (Antonio Pappano) ACT 1
+W048GbyGKPs | Wagner - "Parsifal" (Antonio Pappano) ACT 2
+GkN9KfpIKA8 | Wagner - "Parsifal" (Antonio Pappano) ACT 3
+```
+
+No more redundant parentheses, quotes, escape sequences, and commas, much more succinct. Even non-engineers can handwrite it in this notation rule.
 
 # API
 - for JavaScript: [Enclist-core-js](https://github.com/UedaTakeyuki/enclst-core-js/tree/main)
