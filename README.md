@@ -102,7 +102,7 @@ W048GbyGKPs | Wagner - "Parsifal" (Antonio Pappano) ACT 2
 GkN9KfpIKA8 | Wagner - "Parsifal" (Antonio Pappano) ACT 3
 ```
 
-No more redundant parentheses, quotes, escape sequences, and commas, much more succinct. Even non-engineers can handwrite it in this notation rule.
+No more redundant **parentheses**, **quotes**, **escape sequences**, and **commas**, much more succinct. Even non-engineers can handwrite it in this notation rule.
 
 # API
 - for JavaScript: [Enclist-core-js](https://github.com/UedaTakeyuki/enclst-core-js/tree/main)
