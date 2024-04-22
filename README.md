@@ -50,6 +50,9 @@ item.value.positional[0] // equal "value0"
 ```
 
 ### Named
+A value containing an equal sign can refer to the right side using the left side as a name as follows:
+
+![](draw.io/value/named/named.jpg)
 
 ## for More details
 More detail of Enclst Notation is available [here](documents/Enclst.md).
