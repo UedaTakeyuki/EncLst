@@ -26,6 +26,14 @@ The **ItemList** is a multi-line string that is the remainder of Enclst followed
 
 A value can have several values separated by comma "**,**".
 
+![](draw.io/value/positionals/positionals.jpg)
+
+These values are referred as **positional parameters** of a value of an item by the library like as:
+
+```
+item.value.positional[0] // "value1"
+```
+
 Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
 ```
 https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
