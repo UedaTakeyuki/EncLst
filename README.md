@@ -15,7 +15,12 @@ Even when experienced software engineers (like me :-) write a JSON by hand caref
 
 This is exactly my motivation for creating enclst. JSON is impossible for a non-engineer end user. A more succinct alternative must be necessary.
 
-So, the [Enclst Notation]()
+So, the [Enclst Notation](#enclst-notation) is designed to avoid both:
+
+- The end of the item's **comma**.
+- string **escaping**
+
+The major pitfall of JSON has gone away.
 
 # Enclst Notation
 ## The Structure of the Enclst.
