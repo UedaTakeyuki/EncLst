@@ -15,6 +15,8 @@ Even when experienced software engineers (like me :-) write a JSON by hand caref
 
 This is exactly my motivation for creating enclst. JSON is impossible for a non-engineer end user. A more succinct alternative must be necessary.
 
+So, the [Enclst Notation]()
+
 # Enclst Notation
 ## The Structure of the Enclst.
 An **Enclst** is a multi-line string separated by line breaks. The **first line** is interpreted as the **title string** for the entire enclst, followed by the **ItemList** separated by **a blank line** illustrated as follow:
