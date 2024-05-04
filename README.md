@@ -1,6 +1,6 @@
 # Enclst
 ## What is this?
-The Enclst is a notation rule and API **for humans** to write a list structure **concisely** compared to **JSON**, which has the pitfalls of being prone to write **illegal syntax**.
+The Enclst is a notation rule and API **for humans** to write a list structure **concisely** compared to **JSON** which is **illegal syntax prone**.
 
 ## What is this for?
 This is for what humans write a **list of data** with **attributes** and **title string** that a computer handles the data. Typically the data is something ID like a **URL of a website** or a **content ID of YouTube**. 
