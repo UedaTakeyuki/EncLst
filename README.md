@@ -121,12 +121,19 @@ No more redundant **parentheses**, **quotes**, **escape sequences**, and **comma
 
 ## For Website URL
 [EncycloList](https://encyclolist.uedasoft.com/): A Web application to display the list of Items that consists of a **website URL** and a **its title**, and opens the URL in which selected Item.
+
+### documentation
+[document](https://encyclolist.uedasoft.com/docs/)
+
+### examples 
 - [British Newspapers](https://encyclolist.uedasoft.com/list/https:%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FEncLst%2Fmain%2Fexamples%2FEncycloList%2Flang%2Fen%2Fnewspaper%2Fnewspaper.enclst): displaying enclst is [here](https://github.com/UedaTakeyuki/EncLst/blob/main/examples/EncycloList/lang/en/newspaper/newspaper.enclst)
 - [Journal Française](https://encyclolist.uedasoft.com/list/https:%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FEncLst%2Fmain%2Fexamples%2FEncycloList%2Flang%2Ffr%2Fjournal%2Fjournal.enclst): displaying enclst is [here](https://github.com/UedaTakeyuki/EncLst/blob/main/examples/EncycloList/lang/fr/journal/journal.enclst)
 - [more examples…](https://github.com/UedaTakeyuki/EncLst/wiki/EncycloList-example-pages)
  
 ## For Youtube Contents
 [HS](https://hs.uedasoft.com/channel2/home): A Web application to display the list of Items that consists of a **youtube contents ID** and **its title**, and play the contents in which selected Item.
+
+### examples 
 - [Nouvelle Francais](https://hs.uedasoft.com/channel2/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FHS2playlist%2Fmain%2Fnews%2Ffrancais.enclst): displaying enclst is [here](https://github.com/UedaTakeyuki/HS2playlist/blob/main/news/francais.enclst).
 - [TV Programs](https://hs.uedasoft.com/channel2/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUedaTakeyuki%2FHS2playlist%2Fmain%2Ftvprogram%2Fmenu.enclst): displaying enclst is [here](https://github.com/UedaTakeyuki/HS2playlist/blob/main/tvprogram/menu.enclst).
 - [more examples…](https://github.com/UedaTakeyuki/EncLst/wiki/EncycloList-example-pages)
