@@ -116,7 +116,9 @@ No more redundant **parentheses**, **quotes**, **escape sequences**, and **comma
 - Repository: [Enclist-core-js](https://github.com/UedaTakeyuki/enclst-core-js/tree/main)
 - Document: [jsdoc](https://uedatakeyuki.github.io/enclst-core-js/)
 - Class diagram:
-  ![uml](https://github.com/UedaTakeyuki/enclst-core-js/blob/main/docs/assets/UML.jpg) 
+
+  
+![uml](https://github.com/UedaTakeyuki/enclst-core-js/blob/main/docs/assets/UML.jpg) 
 
 # Application examples
 
