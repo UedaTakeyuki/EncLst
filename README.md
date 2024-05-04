@@ -112,7 +112,10 @@ GkN9KfpIKA8 | Wagner - "Parsifal" (Antonio Pappano) ACT 3
 No more redundant **parentheses**, **quotes**, **escape sequences**, and **commas**, much more succinct. Even non-engineers can handwrite it in this notation rule.
 
 # API
-- for JavaScript: [Enclist-core-js](https://github.com/UedaTakeyuki/enclst-core-js/tree/main)
+## JavaScript
+- Repository: [Enclist-core-js](https://github.com/UedaTakeyuki/enclst-core-js/tree/main)
+- Document: [jsdoc](https://uedatakeyuki.github.io/enclst-core-js/)
+- Class diagram: [uml](https://github.com/UedaTakeyuki/enclst-core-js/blob/main/docs/assets/UML.jpg) 
 
 # Application examples
 
