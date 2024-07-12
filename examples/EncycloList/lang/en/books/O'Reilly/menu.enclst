@@ -7,11 +7,9 @@ go.enclst | go
 english.enclst | english
 C++.enclst | C++
 AWK.enclst | AWK
-RISC-V.enclst | RISC-V
 DataScience.enclst | Data Science
 forKids.enclst | for Kids
 Kubernetes.enclst | Kubernetes
-STM32.enclst | STM32
 SoftSkill.enclst | Soft Skill
 Rust.enclst | Rust
 Grokking.enclst | Grokking
