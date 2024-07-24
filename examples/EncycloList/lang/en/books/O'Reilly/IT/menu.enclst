@@ -1,9 +1,8 @@
 IT
 
 Lang/menu.enclst | Languages
+UI/menu.enclst | UI
 Linux.enclst | Linux
-Qt5.enclst | Qt5
-Qt6.enclst | Qt6
 Kubernetes.enclst | Kubernetes
 Grokking.enclst | Grokking
 Methodologies.enclst | Methodologies
@@ -12,5 +11,4 @@ DB.enclst | DB
 Microcontroller/menu.enclst | Microcontroller
 Container.enclst | Container
 Network.enclst | Network
-Vue.enclst | Vue
 softwareengineering.enclst | Software Engineering
