@@ -1,13 +1,10 @@
 IT
 
+Lang/menu.enclst | Languages
 Linux.enclst | Linux
 Qt5.enclst | Qt5
 Qt6.enclst | Qt6
-go.enclst | go
-C++.enclst | C++
-AWK.enclst | AWK
 Kubernetes.enclst | Kubernetes
-Rust.enclst | Rust
 Grokking.enclst | Grokking
 Methodologies.enclst | Methodologies
 Security.enclst | Security
