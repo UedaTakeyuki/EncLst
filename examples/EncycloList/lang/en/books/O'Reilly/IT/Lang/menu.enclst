@@ -1,6 +1,7 @@
 Languages
 
-go.enclst | go
+go.enclst | Go
+C.enclst | C
 C++.enclst | C++
 AWK.enclst | AWK
 Rust.enclst | Rust
