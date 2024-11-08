@@ -38,10 +38,16 @@ An Item is consist of **Value** and **Title** separated by the first vertical li
 
 ## Value
 
-The Value consists of comma "**,**" separated string values.
+The Value part consists of comma "**,**" separated string values.
 
 ![](draw.io/value/positionals/positionals.jpg)
 
+Each value must not contain the following three characters:
+- commna "**,**"
+- equal sign "**=**"
+- vertical line "**|**"
+
+This restriction allows Enclst to be written in a very simple list.
 
 ### Positional
 These values can be referred to as **positional values** of a value of an item with a library like as:
