@@ -75,6 +75,7 @@ item.value.positional[0] // equal "https://iret.media/?s=HA+Proxy+%E7%99%" and i
 item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it must be not your intention.
 ```
 ## Title
+The Title is the **second half** of the item string separated by the first vertical bar "**|**".
 Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
 This is exactly the benefit of using limits on value.
 
