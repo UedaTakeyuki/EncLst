@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="ページ1" id="PXstXlsUZsiUCJ7R1IE_">
+    <mxGraphModel dx="902" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-1" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://www.bhg.com/gardening/plant-dictionary/&amp;nbsp; |&amp;nbsp; Plant Encyclopedia,,, commas &amp;amp; vertical bar | also OK!&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="65" y="-45" width="860" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-50" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="433" y="-50" width="13" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-50" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-5" value="value" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-6" value="separator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-7" value="title" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-13" value="Comma is OK in title" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.79;" vertex="1" parent="1">
+          <mxGeometry x="485" y="-100" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9jFFZRmbadgfkpvkQ3bN-15" value="Vertical bar is also no problem in title" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="685" y="-105" width="215" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
