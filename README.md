@@ -120,6 +120,10 @@ No more redundant **parentheses**, **quotes**, **escape sequences**, and **comma
   
 ![uml](https://github.com/UedaTakeyuki/enclst-core-js/blob/main/docs/assets/UML.jpg) 
 
+## Dart
+- Repository: [enclst_core_dart](https://github.com/UedaTakeyuki/enclst_core_dart)
+- Document: [dart doc](https://uedatakeyuki.github.io/enclst_core_dart/index.html)
+
 # Application examples
 
 ## For Website URL
