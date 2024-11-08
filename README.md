@@ -32,19 +32,13 @@ An **Enclst** is a multi-line string separated by line breaks. The **first line*
 The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. 
 
 ## Item
-An Item is consist of **Value** and **Title** separated by a vertical line "**|**".
+An Item is consist of **Value** and **Title** separated by the first vertical line "**|**".
 
 ![](draw.io/Item/Item.jpg)
 
-## Title
-Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
-```
-https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
-```
-
 ## Value
 
-A value can have several values separated by comma "**,**".
+The Value consists of comma "**,**" separated string values.
 
 ![](draw.io/value/positionals/positionals.jpg)
 
@@ -74,6 +68,11 @@ Note that a URL that includes parameters is interpreted as a named parameter, bu
 ```
 item.value.positional[0] // equal "https://iret.media/?s=HA+Proxy+%E7%99%" and it must be your intention.
 item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it must be not your intention.
+```
+## Title
+Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
+```
+https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
 ```
 
 ## For more details
