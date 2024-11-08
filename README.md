@@ -77,6 +77,9 @@ item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it mus
 ## Title
 Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
 This is exactly the benefit of using limits on value.
+
+![](draw.io/Title/Title.jpg)
+
 ```
 https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
 ```
@@ -116,7 +119,7 @@ GkN9KfpIKA8 | Wagner - "Parsifal" (Antonio Pappano) ACT 3
 
 No more redundant **parentheses**, **quotes**, **escape sequences**, and **commas**, much more succinct. Even non-engineers can handwrite it in this notation rule.
 
-# API
+# Libraries
 ## JavaScript
 - Repository: [Enclist-core-js](https://github.com/UedaTakeyuki/enclst-core-js/tree/main)
 - Document: [jsdoc](https://uedatakeyuki.github.io/enclst-core-js/)
