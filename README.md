@@ -76,6 +76,7 @@ item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it mus
 ```
 ## Title
 Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
+This is exactly the benefit of using limits on value.
 ```
 https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
 ```
