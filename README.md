@@ -42,12 +42,11 @@ The Value part consists of comma "**,**" separated string values.
 
 ![](draw.io/value/positionals/positionals.jpg)
 
-Each value must not contain the following three characters:
+Each value must not contain the following a couple of characters:
 - commna "**,**"
-- equal sign "**=**"
 - vertical line "**|**"
 
-This restriction allows Enclst to be written in a very simple list.
+This limited restriction allows Enclst to be written in a very simple.
 
 ### Positional
 These values can be referred to as **positional values** of a value of an item with a library like as:
