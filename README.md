@@ -102,7 +102,7 @@ However, thanks to the aforementioned limitations, **Enclst** notation allows ve
 The Title is the **second half** of the item string separated by the first vertical bar "**|**".
 This string can be used as an explanation, a headline, etc. of values.
 
-Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
+As mentioned in the section **Separator**, the title string is designed for any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
 This is exactly the benefit of using value limits.
 
 ![](draw.io/Title/Title.jpg)
