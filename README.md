@@ -74,10 +74,19 @@ Note that a URL that includes parameters is interpreted as a named parameter, bu
 item.value.positional[0] // equal "https://iret.media/?s=HA+Proxy+%E7%99%" and it must be your intention.
 item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it must be not your intention.
 ```
+## Separator
+The **first** vertical line "**|**" in the Item is recognized as the **separator** which separates **Value** and **Title**.
+
+Because of this, each value string can't include the vertical line "**|**".
+In fact, many of the specifications for meaningful strings, such as URL strings, explicitly prohibit them from containing vertical bars, and many meaningful ID strings are also not intended to contain vertical bars. Therefore, I believe that there are few situations where this restriction will cause trouble.
+On the other hand, title strings essentially use arbitrary characters and vertical bars are often used as well.
+Other common notations, such as JSON, require tedious escaping to include vertical bars in strings.
+However, thanks to the aforementioned limitations, **Enclst** notation allows **vertical bars without escaping** to be used inside title strings.
+
 ## Title
 The Title is the **second half** of the item string separated by the first vertical bar "**|**".
 Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
-This is exactly the benefit of using limits on value.
+This is exactly the benefit of using value limits.
 
 ![](draw.io/Title/Title.jpg)
 
