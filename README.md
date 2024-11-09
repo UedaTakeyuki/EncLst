@@ -42,6 +42,11 @@ An Item is consist of **Value** and **Title** separated by the **first** vertica
 
 ![](draw.io/Item/Item.jpg)
 
+In your application with our [libraries](#libraries), The **Item** object has the following members:
+
+- The **Title** string, is the same as the Title mentioned above.
+- The **Value** object which is an object representation of the **Value** mentioned above.
+
 ## Value
 
 The Value part consists of comma "**,**" separated string values.
@@ -53,6 +58,8 @@ Each value must not contain the following a couple of characters:
 - vertical line "**|**"
 
 This limited restriction allows Enclst to be written in a very simple.
+
+In your application with our [libraries](#libraries), you can refer to each value in two ways, by **positional** and by **name** as follow:
 
 ### Positional
 These values can be referred to as **positional values** of a value of an item with a library like as:
