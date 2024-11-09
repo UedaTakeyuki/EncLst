@@ -32,7 +32,7 @@ An **Enclst** is a multi-line string separated by line breaks. The **first line*
 The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. 
 
 ## Item
-An Item is consist of **Value** and **Title** separated by the **first** vertical line "**|**".
+An Item is consist of **Value** and **Title** separated by the **first** vertical bar "**|**".
 
 ![](draw.io/Item/Item.jpg)
 
@@ -77,10 +77,12 @@ item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it mus
 ## Separator
 The **first** vertical line "**|**" in the Item is recognized as the **separator** which separates **Value** and **Title**.
 
-Because of this, each value string can't include the vertical line "**|**".
-In fact, many of the specifications for meaningful strings, such as URL strings, explicitly prohibit them from containing vertical bars, and many meaningful ID strings are also not intended to contain vertical bars. Therefore, I believe that there are few situations where this restriction will cause trouble.
-On the other hand, title strings essentially use arbitrary characters and vertical bars are often used as well.
+Because of this, each value string can't include the vertical bar "**|**".
+In fact, many of the specifications for meaningful strings, such as **URL** strings, explicitly **prohibit** them from containing bar "**|**", and many meaningful ID strings are also not intended to contain vertical bars. Therefore, I believe that there are few situations where this restriction will cause trouble.
+
+On the other hand, **title strings** essentially use **arbitrary characters** and **vertical bars are often used as well**.
 Other common notations, such as JSON, require tedious escaping to include vertical bars in strings.
+
 However, thanks to the aforementioned limitations, **Enclst** notation allows **vertical bars without escaping** to be used inside title strings.
 
 ## Title
