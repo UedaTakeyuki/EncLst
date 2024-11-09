@@ -75,7 +75,7 @@ item.value.positional[0] // equal "https://iret.media/?s=HA+Proxy+%E7%99%" and i
 item.value.named["https://iret.media/?s"] // equal "HA+Proxy+%E7%99%" but it must be not your intention.
 ```
 ## Separator
-The **first** vertical line "**|**" in the Item is recognized as the **separator** which separates **Value** and **Title**.
+The **first** vertical line "**|**" in the Item string is recognized as the **separator** which separates **Value** and **Title**.
 
 Because of this, each value string can't include the vertical bar "**|**".
 In fact, many of the specifications for meaningful strings, such as **URL** strings, explicitly **prohibit** them from containing bar "**|**", and many meaningful ID strings are also not intended to contain vertical bars. Therefore, I believe that there are few situations where this restriction will cause trouble.
