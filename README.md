@@ -28,8 +28,7 @@ An **Enclst** is a multi-line string separated by line breaks. The **first line*
 
 ![](draw.io/overallView/overallview.jpg)
 
-In your application with our [libraries](#libraries)
-
+In your application with our [libraries](#libraries), you can get **Enclst** object from a string or text file following this Notation. The **Title** string and **ItemList** array of object **Item** which 
 ## ItemList
 The **ItemList** is a multi-line string that is the remainder of Enclst followed by The **Title** and a blank separator line, and each low is one **Item**. 
 
