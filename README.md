@@ -83,10 +83,12 @@ In fact, many of the specifications for meaningful strings, such as **URL** stri
 On the other hand, **title strings** essentially use **arbitrary characters** and **vertical bars are often used as well**.
 Other common notations, such as JSON, require tedious escaping to include vertical bars in strings.
 
-However, thanks to the aforementioned limitations, **Enclst** notation allows **vertical bars without escaping** to be used inside title strings.
+However, thanks to the aforementioned limitations, **Enclst** notation allows vertical bars **without troublesome escaping** to be used inside title strings.
 
 ## Title
 The Title is the **second half** of the item string separated by the first vertical bar "**|**".
+This string can be used as an explanation, a headline, etc. of values.
+
 Note: In a title string, any **escaping is not needed**. Even commas "**,**" and vertical lines "**|**", you can use them **without escaping**.
 This is exactly the benefit of using value limits.
 
