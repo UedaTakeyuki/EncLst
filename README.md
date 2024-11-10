@@ -119,6 +119,11 @@ A hierarchical list is expressed as a link of the Enclist.
 
 ![](draw.io/structure/structure.jpg)
 
+Following features are available in our [libraries](#libraries):
+
+- Function to guess if a value is for the enclst file or not.
+- Function to create child enclist indicated by the value for the enclist file mentioned above.
+
 # How concise the Enclst is
 
 A following JSON expressing a list of youtube contents; 
