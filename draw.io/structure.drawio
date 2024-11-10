@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="ページ1" id="7LOPxqKYX8fGn2PjBbpS">
+    <mxGraphModel dx="1192" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lSbPQp2nzifwakoUm91W-1" value="Teater" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="80" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-2" value="Deutscland/&lt;b&gt;menu.enclst&lt;/b&gt; | 🇩🇪&amp;nbsp;Deutscland" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" vertex="1" parent="lSbPQp2nzifwakoUm91W-1">
+          <mxGeometry y="30" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-3" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 40); font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;España&lt;/span&gt;&lt;span style=&quot;color: rgb(31, 35, 40); font-size: 16px; font-weight: 600; background-color: rgb(255, 255, 255);&quot;&gt;/&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(31, 35, 40); font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;menu.enclst |&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#1f2328&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;🇪🇸 España&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lSbPQp2nzifwakoUm91W-1">
+          <mxGeometry y="60" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;U.K./menu.enclst | 🇬🇧 U.K&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lSbPQp2nzifwakoUm91W-1">
+          <mxGeometry y="90" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lSbPQp2nzifwakoUm91W-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="130" as="sourcePoint" />
+            <mxPoint x="-200" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-15" value="https://github.com/UedaTakeyuki/HS2playlist/blob/main/wagner/Theater/&lt;b&gt;menu.enclst&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="200" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Deutscland&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="240" width="445" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BayreutherFestspiele.enclst | Bayreuther Festspiele&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lSbPQp2nzifwakoUm91W-16">
+          <mxGeometry y="30" width="445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BayerischeStaatsoper.enclst | Bayerische Staatsoper&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lSbPQp2nzifwakoUm91W-16">
+          <mxGeometry y="60" width="445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BerlinerPhilharmoniker.enclst | Berliner Philharmoniker&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lSbPQp2nzifwakoUm91W-16">
+          <mxGeometry y="90" width="445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Bayreuther Festspiele&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="405" width="550" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ZHHob6bGULw | Parsifal (Bayreuth 2016)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lSbPQp2nzifwakoUm91W-27">
+          <mxGeometry y="30" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-29" value="2KRj8GKGocs | Meistersinger, Bayreuth 2017 Complete" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="lSbPQp2nzifwakoUm91W-27">
+          <mxGeometry y="60" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-30" value="QKm4QLDSTuM | Lohengrin • Sharon/Thielemann • Bayreuth 2018 • HD" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="lSbPQp2nzifwakoUm91W-27">
+          <mxGeometry y="90" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-31" value="https://github.com/UedaTakeyuki/HS2playlist/blob/main/wagner/Theater/&lt;b&gt;Deutschland/menu.enclst&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="360" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lSbPQp2nzifwakoUm91W-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="440" as="sourcePoint" />
+            <mxPoint x="-230" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-230" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lSbPQp2nzifwakoUm91W-34" value="https://github.com/UedaTakeyuki/HS2playlist/blob/main/wagner/Theater/Deutschland/&lt;b&gt;BayreutherFestspiele.enclst&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="525" width="620" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
