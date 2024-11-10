@@ -114,6 +114,9 @@ https://www.bhg.com/gardening/plant-dictionary/ | Titles like this, |also| OK!
 ## For more details
 More detail of Enclst Notation is available [here](documents/Enclst.md).
 
+# Structured List
+![](draw.io/structure/structure.jpg)
+
 # How concise the Enclst is
 
 A following JSON expressing a list of youtube contents; 
