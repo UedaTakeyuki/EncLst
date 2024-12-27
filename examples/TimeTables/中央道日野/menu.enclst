@@ -1,4 +1,6 @@
 （平日）下り
 enclst_type=timetable
 
-(平日）下り.enclst | （平日）下り
+（平日）下り.enclst |（平日）下り
+（土曜）下り.enclst |（土曜）下り 
+（日曜休日）下り.enclst |（日曜休日）下り 
