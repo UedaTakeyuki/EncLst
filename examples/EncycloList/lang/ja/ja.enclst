@@ -11,7 +11,7 @@ recipe/recipe.enclst | レシピ
 timetable/menu.enclst | 時刻表
 gov/menu.enclst | 行政サービス
 mac/menu.enclst | Mac
-manga/menu.enclst | マンガ
+マンガ/menu.enclst | マンガ
 docs/document.enclst | 各種文書
 learn/menu.enclst | 学習
 温泉/menu.enclst | 温泉
