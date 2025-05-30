@@ -62,7 +62,7 @@ This limited restriction allows Enclst to be written in a very simple.
 In your application with our [libraries](#libraries), you can refer to each value in two ways, by **positional** and by **name** as follow:
 
 ### Positional
-These values can be referred to as **positional values** of a value of an item with a library like as:
+These values can be referred to as **positional values** of a value of an item by a library like :
 
 ```
 item.value.positional[0] // equal "value0"
