@@ -1,6 +1,6 @@
 # Enclst
 ## What is this?
-The Enclst is a notation rule for expressing a list consisting of **one-line strings** that **do not need any escaping** and their attributes.
+The Enclst is a notation rule for expressing a list consisting of **title strings** that **do not need any escaping** and their attributes.
 
 ## What is this for?
 This is for what humans write a **list of data** with **attributes** and **title string** that a computer handles the data. Typically the data is something ID like a **URL of a website** or a **content ID of YouTube**. 
