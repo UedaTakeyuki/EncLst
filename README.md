@@ -1,9 +1,6 @@
 # Enclst
 ## What is this?
-The Enclst is a notation rule for expressing a list consisting of **title strings** that **do not need any escaping** and their attributes.
-
-## What is this for?
-This is for what humans write a **list of data** with **attributes** and **title string** that a computer handles the data. Typically the data is something ID like a **URL of a website** or a **content ID of YouTube**. 
+The Enclst is a notation rule for expressing a list consisting of **title strings** that can contain any character type ＊**without escaping** and their **attributes**. 
 
 ## Why not JSON?
 JSON is a rich notation enough to represent general objects including lists. There is no difficulty for a computer program to handle a JSON. However it comes to humans, it is **NOT easy to write a no-error JSON string**. When you try to write JSON by hand, you may notice the following pitfalls:
