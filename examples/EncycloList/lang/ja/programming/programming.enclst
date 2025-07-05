@@ -2,6 +2,7 @@
 
 https://raw.githubusercontent.com/UedaTakeyuki/EncLst/main/ja/ros/ros.enclst | ROS
 C++.enclst | C++
+C.enclst | C
 Network.enclst | Network
 UI.enclst | UI
 Hugo.enclst | Hugo
