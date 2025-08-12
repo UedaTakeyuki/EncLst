@@ -1,0 +1,8 @@
+Flutter
+
+https://zenn.dev/sesamy_jp/articles/4148697d7a44a9 | with Gemini: FlutterアプリのAndroid API 35対応環境構築
+https://engineer-notes.com/flutter-minsdk-35-google-play-store-2025/ | FlutterでminSDK35に対応させる方法【2025年Google Play Store必須対応】
+https://zenn.dev/photomotch/articles/92e9cf910e8123 | 【Flutter】「アプリは Android 14（API レベル 34） 以降を対象とする必要があります」とか言われる件
+https://blog.adglobe.co.jp/entry/2025/01/24/100000 | AndroidアプリのtargetSdkVersion35対応概要
+https://midland.hatenadiary.jp/entry/2025/06/12/153221 | 【Flutter】Android15（API Level 35）対応をした時のgradle設定
+https://halzoblog.com/api35-android15/#google_vignette | 対象APIレベル35(Android15)への更新時のエラー対応記録
