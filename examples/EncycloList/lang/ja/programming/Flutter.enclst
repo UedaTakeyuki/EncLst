@@ -6,3 +6,4 @@ https://zenn.dev/photomotch/articles/92e9cf910e8123 | 【Flutter】「アプリ�
 https://blog.adglobe.co.jp/entry/2025/01/24/100000 | AndroidアプリのtargetSdkVersion35対応概要
 https://midland.hatenadiary.jp/entry/2025/06/12/153221 | 【Flutter】Android15（API Level 35）対応をした時のgradle設定
 https://halzoblog.com/api35-android15/#google_vignette | 対象APIレベル35(Android15)への更新時のエラー対応記録
+https://qiita.com/kesojiso/items/7154decb9786c48e4e1f | NullSafety対応後の環境で過去プロジェクトのアプリを動作させる
