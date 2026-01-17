@@ -1,0 +1,6 @@
+Torsten T. Will C++
+
+https://godbolt.org/z/3W1qY7b9x | modern102.cpp : Fibonacci console
+https://godbolt.org/z/WM11Gs6sz | shared_ptr
+https://godbolt.org/z/Ee7eqq1MY | Without modern C++ tools
+https://godbolt.org/z/Moe5M7sK8 | const
