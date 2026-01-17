@@ -4,3 +4,79 @@ https://godbolt.org/z/3W1qY7b9x | modern102.cpp : Fibonacci console
 https://godbolt.org/z/WM11Gs6sz | shared_ptr
 https://godbolt.org/z/Ee7eqq1MY | Without modern C++ tools
 https://godbolt.org/z/Moe5M7sK8 | const
+https://godbolt.org/z/Mdj7bGvar | Listing 4.1     A very simple C++ program.
+https://godbolt.org/z/ceT6o5zxd | Listing 4.2     This program asks its users for a number.
+https://godbolt.org/z/33cc3xfo6 | Listing 4.3     A very unusually formatted piece of source code.
+https://godbolt.org/z/E4W9KhbnK | Listing 4.5     A custom C++ function.
+https://godbolt.org/z/4Mr6fnaEr | Listing 4.6     Prefix operators are executed before the calculation.
+https://godbolt.org/z/r5hjrqqK9 | simple assignment
+https://godbolt.org/z/bh1MsPhje | Listing 4.14     An assignment is an expression with the type of the assigned variable.
+https://godbolt.org/z/9943MfExc | Listing 4.15     The compiler helps to write correct programs by checking the types.
+https://godbolt.org/z/zK9Ke9n48 | Listing 4.16     Variables of type bool can store the result of a comparison.
+https://godbolt.org/z/chTTqPjrM | Listing 4.17     This is how you can write a C++ string as a literal in the source code.
+https://godbolt.org/z/GbbcnYbqv | Listing 4.18     Since C++17, the compiler determines the type parameters of class templates based on the constructor arguments.
+https://godbolt.org/z/3G5Po9zEj | If you want to try it out, you don’t need a Thing. Try it with int or short:
+https://godbolt.org/z/cEGGfoeT7 | Listing 4.24     Arithmetic operators in the application.
+https://godbolt.org/z/nMcsbxvvv | Listing 4.25     Programming example for the conversion of an integer into a bit sequence.
+https://godbolt.org/z/qdY41d5a9 | unsigned short.
+https://godbolt.org/z/5hqanTeYh | operators of bitwise arithmetic
+https://godbolt.org/z/xrMYz93WP | the compiler can determine the type of the overall expression
+https://godbolt.org/z/rq66cWr3d | Listing 4.26     You can concatenate several expressions with commas in brackets.
+https://godbolt.org/z/vd85f7rMj | Listing 4.27     The sequence comma can be useful infor loops.
+https://godbolt.org/z/MPPsbdq9c | Listing 4.28     Some new data types are used here.
+https://godbolt.org/z/ebPcdxzvj | Listing 4.29     Arithmetic with integers.
+https://godbolt.org/z/jeTs5Exqx | Listing 4.30     Bit operations.
+https://godbolt.org/z/zGso3xGcj | Listing 4.31     Index variables can be of type “size_t”.
+https://godbolt.org/z/8ae83nPYs | Listing 4.32     “double” cannot always store numbers exactly. Calculating and comparing with “==” is an error.
+https://godbolt.org/z/qx8h7a4j9 | Listing 4.33     Several ways to mark “double” literals.
+https://godbolt.org/z/6qfo4oYnr | Listing 4.34     Floating-point literals become imprecise at some point.
+https://godbolt.org/z/Tvx4qcrE6 | Listing 4.35     Among other things, you can discover special values with “fpclassify.”
+https://godbolt.org/z/We3oWrcWW | double and float
+https://godbolt.org/z/863b1z4GY | float and double
+https://godbolt.org/z/sEE94bh5K | Listing 4.36     Accumulated time measurement.
+https://godbolt.org/z/dKPo7andE | Listing 4.37     Closed time calculation.
+https://godbolt.org/z/43rYYeKx9 | Listing 4.38     You can calculate arithmetically with complex numbers.
+https://godbolt.org/z/eW1cfYcGs | Listing 4.39     Output in unspecified order.
+https://godbolt.org/z/eP77v498E | Listing 5.1     Indentation four, curly brackets in line with keyword, few spaces.
+https://godbolt.org/z/4TMn37qhE | Listing 5.2     Indentation two, curly brackets only if necessary and in own line, more spaces.
+https://godbolt.org/z/cv1qfcEd4 | Listing 6.1     Some possible uses of strings.
+https://godbolt.org/z/1zfo7fPcs | Listing 6.2     A string_view can be easily created from a string.
+https://godbolt.org/z/P1fn5q8z8 | Listing 6.3     The error stream is separated from the standard output.
+https://godbolt.org/z/xYvPxbjr5 | Listing 6.4     A function with inputs and outputs.
+https://godbolt.org/z/a6qqbWKMs | converts the arguments to uppercase and outputs them
+https://godbolt.org/z/McqfcWb8j | Instead of <iostream>, include <fstream>
+https://godbolt.org/z/P9z8n8v16 | reading existing files, except that you use ifstream
+https://godbolt.org/z/ssW3eKEGq | check whether opening the file has caused an error by applying the nonoperator ! to the stream
+https://godbolt.org/z/ssW3eKEGq | Listing 6.5     Use the ! operator to check the state of the stream.
+https://godbolt.org/z/EcnWz3r3j | Listing 6.6     Use stream manipulators from <iomanip> to influence the format of the output.
+https://godbolt.org/z/cd1d1W7T1 | Listing 6.7     You store a fixed number of elements in an “array.”
+https://godbolt.org/z/zfe7dM4ex | Listing 6.8     The array size must be constant.
+https://godbolt.org/z/a4zxbd99z | Listing 6.9     If you need to use an array definition more than once, use “using.”
+https://godbolt.org/z/T9jsEoMj4 | initialize it empty and then add as many elements
+https://godbolt.org/z/hhhavG5he | Listing 6.10     The simplest iteration uses a range based “for” loop.
+https://godbolt.org/z/xcKM7v1Eo | Listing 6.11     Accessing the elements by index.
+https://godbolt.org/z/1WG8zvhYe | Listing 6.12     The use of iterators for a loop.
+https://godbolt.org/z/4G67rso8T | Listing 6.13     Counting with an algorithm.
+https://godbolt.org/z/TdrebYodx | Listing 7.1     Use functions.
+https://godbolt.org/z/8zcvMdM3b | Listing 7.3     Parameters are initially passed as a value.
+https://godbolt.org/z/63dTshz3Y | Listing 7.4     Add an ampersand to make it a reference parameter.
+https://godbolt.org/z/dcKnx3Pno | Listing 7.5     You can use constant references as parameters for any call.
+https://godbolt.org/z/oh91YvaqT | I recommend that you use a return value instead:
+https://godbolt.org/z/q4ov41cnv | tempted to do this
+https://godbolt.org/z/zb1T7Kr3G | Listing 7.8     Some conversions take place here. The conversions may look different on your system.
+https://godbolt.org/z/9YcPraT15 | Listing 7.9     The “print” and “add” functions have been overloaded for multiple types.
+https://godbolt.org/z/58cTfvYhe | The compiler will complain about overloads that differ only in return type:
+https://godbolt.org/z/evGqG1oqa | return types can also be different
+https://godbolt.org/z/fjc37rvEr | Listing 7.10     Default parameters act like multiple overloads.
+https://godbolt.org/z/6d5fxn9ed | Listing 7.12     Since C++14, you can let the compiler deduce the return type.
+https://godbolt.org/z/8Gdso36zf | Specialties in Class Methods
+https://godbolt.org/z/xWbqeeq3n | Listing 8.8     With auto, you can also initialize multiple variables at once.
+https://godbolt.org/z/3zo8GnbW3 | don't need to copy out the values; you can also let the declaration be references:
+https://godbolt.org/z/d6PscKx4M | Listing 8.10     These if statements contain initializers.
+https://godbolt.org/z/Ycse4EWav | Listing 8.11     The compiler can evaluate the condition at compile time.
+https://godbolt.org/z/h466fYq4W | Listing 8.12     The loop runs 100 times.
+https://godbolt.org/z/6hh5KhExM | Listing 8.13     The body of a “do-while” loop is executed at least once.
+https://godbolt.org/z/7foYcMMaz | Listing 8.14     Sum with a “for” loop.
+https://godbolt.org/z/185ha3q3f | Listing 8.15     “for” loop with empty initialization part.
+https://godbolt.org/z/Y4W11oW8b | Listing 8.18     Each “case” covers one scenario, and nowhere was the “break” forgotten.
+https://godbolt.org/z/jaMTcshEf | Listing 8.19     Very rarely are there “case” blocks without “break”—and even more rarely meaningful ones.
