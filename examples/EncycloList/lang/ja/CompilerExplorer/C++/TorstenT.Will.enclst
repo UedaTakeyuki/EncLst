@@ -135,3 +135,5 @@ https://godbolt.org/z/e3d55zvT8 | Listing 13.3     An anonymous namespace makes 
 https://godbolt.org/z/zfYzPjqrW | static
 https://godbolt.org/z/n4e8xdEGj | Listing 13.4     All instances share their “static” data fields and methods.
 https://godbolt.org/z/b9arcEMM1 | constinit is constexpr minus const
+https://godbolt.org/z/h5qond6db | Listing 13.5     A local static variable is initialized once and reused thereafter.
+https://godbolt.org/z/115M1csEE | Listing 13.7     The identifiers of an inline namespace also go into its surrounding namespace.
