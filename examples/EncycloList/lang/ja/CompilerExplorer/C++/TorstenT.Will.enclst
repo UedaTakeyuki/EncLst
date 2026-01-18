@@ -131,3 +131,4 @@ https://godbolt.org/z/8ejPs6zr6 | Listing 12.36     To pack a custom data type i
 https://godbolt.org/z/Yhzqo6dxT | Listing 12.37     For a “set” of a custom data type, you need to override “operator<”.
 https://godbolt.org/z/TdEnhKxGK | For the values, copy and assignment are sufficient, and preferably also the move operations.
 https://godbolt.org/z/qo6W3bh5d | Listing 13.1     You define a namespace with “namespace”.
+https://godbolt.org/z/dnYGq16a7 | Listing 13.3     An anonymous namespace makes definitions local to the current file.
