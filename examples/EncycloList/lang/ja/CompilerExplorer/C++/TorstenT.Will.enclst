@@ -134,3 +134,4 @@ https://godbolt.org/z/qo6W3bh5d | Listing 13.1     You define a namespace with �
 https://godbolt.org/z/e3d55zvT8 | Listing 13.3     An anonymous namespace makes definitions local to the current file.
 https://godbolt.org/z/zfYzPjqrW | static
 https://godbolt.org/z/n4e8xdEGj | Listing 13.4     All instances share their “static” data fields and methods.
+https://godbolt.org/z/b9arcEMM1 | constinit is constexpr minus const
