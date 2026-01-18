@@ -80,3 +80,54 @@ https://godbolt.org/z/7foYcMMaz | Listing 8.14     Sum with a “for” loop.
 https://godbolt.org/z/185ha3q3f | Listing 8.15     “for” loop with empty initialization part.
 https://godbolt.org/z/Y4W11oW8b | Listing 8.18     Each “case” covers one scenario, and nowhere was the “break” forgotten.
 https://godbolt.org/z/jaMTcshEf | Listing 8.19     Very rarely are there “case” blocks without “break”—and even more rarely meaningful ones.
+https://godbolt.org/z/75h9Y95vf | Listing 8.20     With break, you terminate a loop prematurely.
+https://godbolt.org/z/5ddxa9v1j | Listing 8.21     With “return”, the current function is exited. If necessary, provide a value for the return.
+https://godbolt.org/z/ohd5Pr8fb | Listing 8.22     Avoid goto statements.
+https://godbolt.org/z/fnsWhn5T3 | Listing 8.23     One less function, but one label and two more “goto” statements.
+https://godbolt.org/z/jhPaEjh1r | Listing 8.24     As a preview, here is your first exception handling with “try” and “catch”.
+https://godbolt.org/z/M6en1GMrE | Listing 9.1     Types of expressions are important because they determine what happens next.
+https://godbolt.org/z/EY5K6Wsr3 | function can also return a reference
+https://godbolt.org/z/K9c913had | because the assignment is an expression, you can embed it almost anywhere.
+https://godbolt.org/z/EWqqGjnnz | Listing 10.1     Respond to many states with different types of return values.
+https://godbolt.org/z/j8abxvvvo | Listing 10.2     Exceptions are triggered with “throw” and handled with “try-catch”.
+https://godbolt.org/z/67cd5bhhE | Listing 10.5     You can also throw exceptions of other types.
+https://godbolt.org/z/TsP33njar | Listing 10.6     At least output the error type and text instead of letting your program tumble out of “main”.
+https://godbolt.org/z/e5GWbbq4Y | Listing 11.1     The main header file of the qwort.hpp library.
+https://godbolt.org/z/TMExE8doz | Listing 11.2     The interface class forwards all calls to the implementation class.
+https://godbolt.org/z/ob9voovMx | Listing 11.3     Header of the implementation class.
+https://godbolt.org/z/hWan33Go9 | Listing 11.4     The header of the implementation class.
+https://godbolt.org/z/zj91TshnY | Listing 11.5     Pretty much the simplest example program of the library.
+https://godbolt.org/z/8YqoTEx58 | Listing 12.1     Creating your own data type with “struct”.
+https://godbolt.org/z/zPbK16zWE | Listing 12.2     The declaration of a class initially only mentions its name, while the definition contains all its elements.
+https://godbolt.org/z/K8WePajvM | Listing 12.3     With designated initializers, you specify the elements to be set.
+https://godbolt.org/z/rrjPorT1o | Returning Custom Types
+https://godbolt.org/z/ME76bfbWa | creates temporary variables of your type as usual
+https://godbolt.org/z/jer44aWs9 | Listing 12.4     Here, specifying Person in the return is necessary.
+https://godbolt.org/z/5T1Er36P7 | Listing 12.5     Methods bundle data and behavior together.
+https://godbolt.org/z/hEvqWqqc6 | you also need to use this-> for attribute access in a method
+https://godbolt.org/z/bz6n3Pjrv | Listing 12.8     “print” takes a stream as an argument.
+https://godbolt.org/z/a7q5xsWGj | Listing 12.10     The output with << is achieved by overloading a free function.
+https://godbolt.org/z/Y3eW1Kh8v | Listing 12.11     Methods can also be defined inline.
+https://godbolt.org/z/zndbvh5nK | Listing 12.13     Multiple constructors are also possible.
+https://godbolt.org/z/Wo8zaq9WW | Listing 12.14     Member variables can be equipped with default values.
+https://godbolt.org/z/8h93f64Yj | Listing 12.15     A constructor can pass part of the initialization to another constructor.
+https://godbolt.org/z/Gfrd5cceG | Listing 12.16     A constructor can also be overloaded with default parameters.
+https://godbolt.org/z/1fE15Kf39 | Listing 12.17     A constructor with all preset arguments becomes the default constructor.
+https://godbolt.org/z/dzjaf6nbb | Listing 12.18     Do not call an initializing method in the constructor body.
+https://godbolt.org/z/4MzxaevKa | Listing 12.20     Divide a type into multiple sections with “public” and “private”.
+https://godbolt.org/z/MYzsqfqdo | Listing 12.21     A “class” starts with private visibility.
+https://godbolt.org/z/Pr76Y55P4 | Listing 12.22     Parts of the data are private.
+https://godbolt.org/z/PaG9nTs7s | Listing 12.23     With “= default”, you let the compiler generate code.
+https://godbolt.org/z/aGd56xzsT | Listing 12.24     Custom data types can protect against errors. This is the first step toward that.
+https://godbolt.org/z/T7afh4vxz | Listing 12.25     If all “return” statements return the same variable, the compiler can always avoid a copy.
+https://godbolt.org/z/EPz4Kd6jP | Listing 12.27     “Year” no longer has “value()” and requires other methods.
+https://godbolt.org/z/hbsbMsGr1 | Listing 12.30     The internal type “int” has become part of the class interface.
+https://godbolt.org/z/EYjo8E8Gn | Listing 12.31     With “using”, you can introduce type aliases that make it easier to maintain interfaces than with the types themselves.
+https://godbolt.org/z/zdMfoa7Yj | Listing 12.32     The standard library also contains many useful type aliases.
+https://godbolt.org/z/Wh71cf7j1 | Listing 12.33     When initializing a variable, the compiler can determine the type.
+https://godbolt.org/z/qzWchWoeK | Listing 12.34     Type deduction with “auto” can be further restricted using a concept.
+https://godbolt.org/z/ro6fdsvT9 | Listing 12.35     When you enrich “auto” with &, you get a modifiable reference.
+https://godbolt.org/z/8ejPs6zr6 | Listing 12.36     To pack a custom data type into a “vector”, it does not need to meet many requirements.
+https://godbolt.org/z/Yhzqo6dxT | Listing 12.37     For a “set” of a custom data type, you need to override “operator<”.
+https://godbolt.org/z/TdEnhKxGK | For the values, copy and assignment are sufficient, and preferably also the move operations.
+https://godbolt.org/z/qo6W3bh5d | Listing 13.1     You define a namespace with “namespace”.
