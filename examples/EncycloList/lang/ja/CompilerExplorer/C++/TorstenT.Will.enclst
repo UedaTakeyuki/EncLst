@@ -140,3 +140,4 @@ https://godbolt.org/z/115M1csEE | Listing 13.7     The identifiers of an inline 
 https://godbolt.org/z/WTWxYa3rd | const For a custom data type
 https://godbolt.org/z/bxPaz9aW5 | Listing 13.8     Local constants of a file fit well into an anonymous namespace.
 https://godbolt.org/z/fM4nsx9GP | the compiler can often avoid the copy
+https://godbolt.org/z/98x3YsnKc | Listing 13.9     Although the return type is marked with “const” here, it has no effect because it is always copied.
