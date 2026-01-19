@@ -139,3 +139,4 @@ https://godbolt.org/z/h5qond6db | Listing 13.5     A local static variable is in
 https://godbolt.org/z/115M1csEE | Listing 13.7     The identifiers of an inline namespace also go into its surrounding namespace.
 https://godbolt.org/z/WTWxYa3rd | const For a custom data type
 https://godbolt.org/z/bxPaz9aW5 | Listing 13.8     Local constants of a file fit well into an anonymous namespace.
+https://godbolt.org/z/fM4nsx9GP | the compiler can often avoid the copy
