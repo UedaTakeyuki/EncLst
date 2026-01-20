@@ -145,3 +145,4 @@ https://godbolt.org/z/3EG1ovcev | Listing 13.10     Constant references in retur
 https://godbolt.org/z/9MTj3rP5d | Listing 13.11     References can be returned as constant and nonconstant.
 https://godbolt.org/z/4dnTs4vPx | a const variable is also marked with static
 https://godbolt.org/z/E6MWxY1f7 | Listing 13.12     Some expressions must be known at compile time.
+https://godbolt.org/z/xPzcWPdMa | Listing 13.13     Whether the compiler can use a constant in a constant expression is not always immediately apparent.
