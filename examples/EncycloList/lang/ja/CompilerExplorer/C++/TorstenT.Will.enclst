@@ -143,3 +143,4 @@ https://godbolt.org/z/fM4nsx9GP | the compiler can often avoid the copy
 https://godbolt.org/z/98x3YsnKc | Listing 13.9     Although the return type is marked with “const” here, it has no effect because it is always copied.
 https://godbolt.org/z/3EG1ovcev | Listing 13.10     Constant references in returns.
 https://godbolt.org/z/9MTj3rP5d | Listing 13.11     References can be returned as constant and nonconstant.
+https://godbolt.org/z/4dnTs4vPx | a const variable is also marked with static
