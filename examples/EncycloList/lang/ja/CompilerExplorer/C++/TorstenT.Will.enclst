@@ -150,3 +150,8 @@ https://godbolt.org/z/Yv85s9T6v | constexpr as Return Type
 https://godbolt.org/z/zMbnYzo17 | Listing 13.15     With “if constexpr”, you can decide at compile time what code will be executed.
 https://godbolt.org/z/eo468MvMo | Listing 13.16     "if constexpr" also works with “else”.
 https://godbolt.org/z/44KMf1fWr | constexpr auto fibonacci() 
+https://godbolt.org/z/v3x7nGs3f | Listing 13.17     With “consteval”, you can execute functions at compile time.
+https://godbolt.org/z/Wbr7n8M4q | Listing 13.18     Even more complex functions can be computed at compile time with “consteval”.
+https://godbolt.org/z/7KWqTPo1K | Listing 13.19     The compiler determines whether the call can be evaluated at compile time in the given context.
+https://godbolt.org/z/sPorKnEbd | Listing 13.20     “mutable” makes a data field in const methods mutable.
+https://godbolt.org/z/GE5v6Ea8x | Listing 13.21     “const” with containers.
