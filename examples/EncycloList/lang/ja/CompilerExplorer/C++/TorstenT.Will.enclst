@@ -159,3 +159,5 @@ https://godbolt.org/z/a83sf9h8E | Listing 14.1     Solitary tests test only one 
 https://godbolt.org/z/fsroE4seh | Listing 14.2     Social tests test the interaction of components.
 https://godbolt.org/z/sTaoeqfxr | comment within a test functions in three sections
 https://godbolt.org/z/rn5oK3M6e | call the code to be tested multiple times in a test routine
+https://godbolt.org/z/Ex6Mv6xcz | Listing 14.3     In the “fib.cpp” file, there is a free function that you want to test.
+https://godbolt.org/z/erPdKo1qh | test_fib.cpp
