@@ -157,3 +157,4 @@ https://godbolt.org/z/sPorKnEbd | Listing 13.20     “mutable” makes a data f
 https://godbolt.org/z/GE5v6Ea8x | Listing 13.21     “const” with containers.
 https://godbolt.org/z/a83sf9h8E | Listing 14.1     Solitary tests test only one component, and helper classes are substituted.
 https://godbolt.org/z/fsroE4seh | Listing 14.2     Social tests test the interaction of components.
+https://godbolt.org/z/sTaoeqfxr | comment within a test functions in three sections
