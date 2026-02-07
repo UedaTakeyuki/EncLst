@@ -166,3 +166,4 @@ https://godbolt.org/z/TacMfah8E | Listing 14.6     This test module tests qwort.
 https://godbolt.org/z/r9sdhaazz | Listing 14.7     The test suite is manually assembled here.
 https://godbolt.org/z/5GondGsMz | Listing 14.8     A test function with a parameter can be called with test data.
 https://godbolt.org/z/hhGo46z5a | Listing 15.1     The common ancestor of our “Year”, “Month”, and “Day” helper classes.
+https://godbolt.org/z/eYY1js4Te | Listing 15.2     The duplicate code of the helper classes has now disappeared.
