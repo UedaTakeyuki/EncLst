@@ -168,3 +168,4 @@ https://godbolt.org/z/5GondGsMz | Listing 14.8     A test function with a parame
 https://godbolt.org/z/hhGo46z5a | Listing 15.1     The common ancestor of our “Year”, “Month”, and “Day” helper classes.
 https://godbolt.org/z/eYY1js4Te | Listing 15.2     The duplicate code of the helper classes has now disappeared.
 https://godbolt.org/z/9rY7qhK89 | Listing 15.3     This is how “Date” uses the new classes.
+https://godbolt.org/z/zqKvMedz7 | Listing 15.4     Now “easter” is a method of “Year”.
