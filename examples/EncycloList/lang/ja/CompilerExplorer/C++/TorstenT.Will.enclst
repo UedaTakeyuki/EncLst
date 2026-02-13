@@ -173,3 +173,4 @@ https://godbolt.org/z/YTK8PfcMc | Listing 15.6     What does “print” output?
 https://godbolt.org/z/vW5s3Kh6M | Listing 15.7     Methods marked with “virtual” are resolved at runtime.
 https://godbolt.org/z/59WKfxenE | Listing 15.8     The derived class inherits methods but not constructors from the parent class.
 https://godbolt.org/z/h15eGahjh | Listing 15.9     Using “using” to import all parent class constructors.
+https://godbolt.org/z/Ec7vqEdY3 | Listing 15.10     Passing by value only copies the common part of the type.
