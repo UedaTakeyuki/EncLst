@@ -174,3 +174,5 @@ https://godbolt.org/z/vW5s3Kh6M | Listing 15.7     Methods marked with “virtua
 https://godbolt.org/z/59WKfxenE | Listing 15.8     The derived class inherits methods but not constructors from the parent class.
 https://godbolt.org/z/h15eGahjh | Listing 15.9     Using “using” to import all parent class constructors.
 https://godbolt.org/z/Ec7vqEdY3 | Listing 15.10     Passing by value only copies the common part of the type.
+https://godbolt.org/z/17nah59eP | Listing 15.11     The derived class as an argument type to a function does not allow calling with a base class variable as a value parameter.
+https://godbolt.org/z/sW7MexWrh | Listing 15.12     Passing by reference does not change the instance.
