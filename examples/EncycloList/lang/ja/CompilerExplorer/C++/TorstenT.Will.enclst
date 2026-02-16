@@ -188,3 +188,4 @@ https://godbolt.org/z/5M8xKabjK | assignment
 https://godbolt.org/z/s65GvY9xj | Listing 16.16     The schema for implementing a custom assignment operator.
 https://godbolt.org/z/398GhcbaE | Listing 16.18     Use “= delete” to manually remove operations.
 https://godbolt.org/z/vb5a3EjcY | Listing 16.19     With the deleted functions, the compiler prevents incorrect usage of the class.
+https://godbolt.org/z/aoqW86vs8 | Listing 16.21     Implementation of the two move operations.
