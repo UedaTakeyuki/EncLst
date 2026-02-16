@@ -176,3 +176,15 @@ https://godbolt.org/z/h15eGahjh | Listing 15.9     Using “using” to import a
 https://godbolt.org/z/Ec7vqEdY3 | Listing 15.10     Passing by value only copies the common part of the type.
 https://godbolt.org/z/17nah59eP | Listing 15.11     The derived class as an argument type to a function does not allow calling with a base class variable as a value parameter.
 https://godbolt.org/z/sW7MexWrh | Listing 15.12     Passing by reference does not change the instance.
+https://godbolt.org/z/9jGKPbzqo | Listing 16.1     Which variables can you use for “x1” to “x5”?
+https://godbolt.org/z/eK1Ervjs5 | Listing 16.2     When you call a function with a parameter for which the compiler invokes a constructor to perform a conversion, it creates a temp-value.
+https://godbolt.org/z/WPcTv3zKM | Listing 16.3     A destructor is executed when an object is removed.
+https://godbolt.org/z/ennEoWPzb　｜ Listing 16.4     Here, many objects are created and destroyed.
+https://godbolt.org/z/54dzsb31z | Listing 16.6     A simple example of a C interface to a resource.
+https://godbolt.org/z/6399qK9Ts | Listing 16.7     If you need to close a resource, the destructor is suitable for this.
+https://godbolt.org/z/99PPn595E | Listing 16.11     The constructor of “CanThrow” can terminate with an exception.
+https://godbolt.org/z/3T869arc8 | Listing 16.13     Passing by value creates objects with the compiler-generated copy constructor.
+https://godbolt.org/z/5M8xKabjK | assignment
+https://godbolt.org/z/s65GvY9xj | Listing 16.16     The schema for implementing a custom assignment operator.
+https://godbolt.org/z/398GhcbaE | Listing 16.18     Use “= delete” to manually remove operations.
+https://godbolt.org/z/vb5a3EjcY | Listing 16.19     With the deleted functions, the compiler prevents incorrect usage of the class.
