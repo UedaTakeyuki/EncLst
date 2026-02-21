@@ -193,3 +193,6 @@ https://godbolt.org/z/aoqW86vs8 | Listing 16.21     Implementation of the two mo
 https://godbolt.org/z/P99563KoP | Listing 16.22     Infix, function, and method notation for operators.
 https://godbolt.org/z/Wvr3aK75G | Listing 16.23     A “friend” function is not a method, even if it is inside the class or defined there.
 https://godbolt.org/z/YonbGKj8M | Listing 16.24     A data type almost fully equipped with all operators.
+https://godbolt.org/z/YonbGKj8M | Listing 16.25     You use the data type equipped with operators as usual.
+https://godbolt.org/z/vjrr6d5TW | Listing 16.26     This data type demonstrates the Boolean operators.
+https://godbolt.org/z/KxWb4q8q9 | Listing 16.27     The comparison categories contain constants for the return.
