@@ -196,3 +196,7 @@ https://godbolt.org/z/YonbGKj8M | Listing 16.24     A data type almost fully equ
 https://godbolt.org/z/YonbGKj8M | Listing 16.25     You use the data type equipped with operators as usual.
 https://godbolt.org/z/vjrr6d5TW | Listing 16.26     This data type demonstrates the Boolean operators.
 https://godbolt.org/z/KxWb4q8q9 | Listing 16.27     The comparison categories contain constants for the return.
+https://godbolt.org/z/1zq4jfdYb | Listing 16.29     A virtual method that is = 0 is called pure virtual or abstract.
+https://godbolt.org/z/xhd7s1YhE | Listing 16.30     With an “enum”, you define a type with its own value range.
+https://godbolt.org/z/f8on7bs1Y | to bring the enumeration class into the current namespace with using enum
+https://godbolt.org/z/Yjbzrrnob | Listing 16.31     In an “enum”, you can also specify the desired numerical values.
