@@ -200,3 +200,6 @@ https://godbolt.org/z/1zq4jfdYb | Listing 16.29     A virtual method that is = 0
 https://godbolt.org/z/xhd7s1YhE | Listing 16.30     With an “enum”, you define a type with its own value range.
 https://godbolt.org/z/f8on7bs1Y | to bring the enumeration class into the current namespace with using enum
 https://godbolt.org/z/Yjbzrrnob | Listing 16.31     In an “enum”, you can also specify the desired numerical values.
+https://godbolt.org/z/K1714eWr9 | Listing 17.1     Prohibit four of the big five with “= delete”.
+https://godbolt.org/z/nbh9aozPM | Listing 17.2     Instead of using a raw pointer, use a standard construct and do not define any of the big five operations.
+https://godbolt.org/z/6vsqnWeWh | Listing 17.3     In a hierarchy with virtual methods, you must define and mark the base class destructor as virtual.
