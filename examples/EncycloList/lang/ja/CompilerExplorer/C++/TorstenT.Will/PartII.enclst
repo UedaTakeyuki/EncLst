@@ -114,3 +114,5 @@ https://godbolt.org/z/n7Grhh1GM | Listing 17.9     C API with simple RAII.
 https://godbolt.org/z/c8xfM1nEa | Listing 17.10     C API with simple RAII, without throw.
 https://godbolt.org/z/s8KoE4ETs | Listing 17.11     Nothrow-new does not throw “bad_alloc”, but returns “nullptr”.
 https://godbolt.org/z/sTosKfocx | Listing 18.1     With “friend”, you can allow another class access to private members.
+https://godbolt.org/z/oxbcE18TM | Listing 18.2     The Tree class has access to private members of Node.
+https://godbolt.org/z/eKbK39nG1 | Listing 18.3     When inheriting, you can specify what should become visible.
