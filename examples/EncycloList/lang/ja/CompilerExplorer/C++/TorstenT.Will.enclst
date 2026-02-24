@@ -210,3 +210,4 @@ https://godbolt.org/z/hG3j3PGYv | Listing 17.8     C API in C++ code.
 https://godbolt.org/z/n7Grhh1GM | Listing 17.9     C API with simple RAII.
 https://godbolt.org/z/c8xfM1nEa | Listing 17.10     C API with simple RAII, without throw.
 https://godbolt.org/z/s8KoE4ETs | Listing 17.11     Nothrow-new does not throw “bad_alloc”, but returns “nullptr”.
+https://godbolt.org/z/sTosKfocx | Listing 18.1     With “friend”, you can allow another class access to private members.
