@@ -116,3 +116,9 @@ https://godbolt.org/z/s8KoE4ETs | Listing 17.11     Nothrow-new does not throw �
 https://godbolt.org/z/sTosKfocx | Listing 18.1     With “friend”, you can allow another class access to private members.
 https://godbolt.org/z/oxbcE18TM | Listing 18.2     The Tree class has access to private members of Node.
 https://godbolt.org/z/eKbK39nG1 | Listing 18.3     When inheriting, you can specify what should become visible.
+https://godbolt.org/z/61EdcjPn4 | Listing 18.4     Inherited visibilities, viewed from the outside.
+https://godbolt.org/z/Pq5aWq8xr | Listing 18.5     Inherited visibilities for further derivations.
+https://godbolt.org/z/WYqYe7PoY | Listing 18.6     In practice, child classes use privately inherited members indirectly.
+https://godbolt.org/z/ETr73T5a9 | Listing 18.7     A has-a relationship via private inheritance.
+https://godbolt.org/z/Gb3zx1jf7 | The d.func(3) call can no longer see the func(int) overload.
+https://godbolt.org/z/67EjhMf54 | Listing 18.8     Has-a relationship using a member.
