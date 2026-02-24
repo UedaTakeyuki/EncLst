@@ -1,5 +1,4 @@
-Torsten T. Will C++
-
+Part II   Object-Oriented Programming And More
 
 https://godbolt.org/z/8YqoTEx58 | Listing 12.1     Creating your own data type with “struct”.
 https://godbolt.org/z/zPbK16zWE | Listing 12.2     The declaration of a class initially only mentions its name, while the definition contains all its elements.
