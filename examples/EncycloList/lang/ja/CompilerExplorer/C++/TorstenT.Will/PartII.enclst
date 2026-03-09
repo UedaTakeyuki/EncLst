@@ -123,3 +123,4 @@ https://godbolt.org/z/ETr73T5a9 | Listing 18.7     A has-a relationship via priv
 https://godbolt.org/z/Gb3zx1jf7 | The d.func(3) call can no longer see the func(int) overload.
 https://godbolt.org/z/67EjhMf54 | Listing 18.8     Has-a relationship using a member.
 https://godbolt.org/z/rW4oTPhrG | Listing 18.9     A signature class has only pure virtual methods.
+https://godbolt.org/z/cevM7nq53 | Listing 18.10     A signature class makes a good base class.
