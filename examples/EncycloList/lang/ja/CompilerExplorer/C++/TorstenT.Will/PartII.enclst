@@ -125,3 +125,9 @@ https://godbolt.org/z/67EjhMf54 | Listing 18.8     Has-a relationship using a me
 https://godbolt.org/z/rW4oTPhrG | Listing 18.9     A signature class has only pure virtual methods.
 https://godbolt.org/z/cevM7nq53 | Listing 18.10     A signature class makes a good base class.
 https://godbolt.org/z/xWr7axonx | Listing 18.11     A virtual method with implementation “= 0” is abstract.
+https://godbolt.org/z/xnGTM351G | Listing 18.12     Multiple inheritance means having multiple base classes.
+https://godbolt.org/z/oxoef1nTs | Listing 18.13     The clock and calendar combination results in a clock with a calendar.
+https://godbolt.org/z/56Ec357Tf | Listing 18.14     A simple calendar class.
+https://godbolt.org/z/zh5cPG7TK | Listing 18.15     The calendar clock is a calendar and a clock.
+https://godbolt.org/z/oc7jsbrEK | Listing 18.16     With multiple inheritance, the value of a pointer can change.
+https://godbolt.org/z/EnE7Y886M | Listing 18.17     The observer pattern with multiple inheritance.
