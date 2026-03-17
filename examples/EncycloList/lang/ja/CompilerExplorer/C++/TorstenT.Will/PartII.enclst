@@ -131,3 +131,5 @@ https://godbolt.org/z/56Ec357Tf | Listing 18.14     A simple calendar class.
 https://godbolt.org/z/zh5cPG7TK | Listing 18.15     The calendar clock is a calendar and a clock.
 https://godbolt.org/z/oc7jsbrEK | Listing 18.16     With multiple inheritance, the value of a pointer can change.
 https://godbolt.org/z/EnE7Y886M | Listing 18.17     The observer pattern with multiple inheritance.
+https://godbolt.org/z/8jYeYPs7W | Listing 18.18     A simple example with virtual inheritance.
+https://godbolt.org/z/s9xnn7c5j | Listing 18.19     Effectively, user() calls a sister method here.
