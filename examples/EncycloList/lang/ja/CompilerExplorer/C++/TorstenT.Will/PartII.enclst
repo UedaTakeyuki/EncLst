@@ -136,3 +136,4 @@ https://godbolt.org/z/s9xnn7c5j | Listing 18.19     Effectively, user() calls a 
 https://godbolt.org/z/Kvfx9Yeox | Listing 18.20     You create a literal data type with a constexpr constructor.
 https://godbolt.org/z/r1vYc7r5j | Listing 18.21     User-defined literals are especially useful with literal data types.
 https://godbolt.org/z/71fE4zKhj | Listing 19.1     Call-by-reference as a basis for polymorphism.
+https://godbolt.org/z/fdh4n5x84 | Listing 19.2     The Book class serves the reader and librarian actors.
