@@ -137,3 +137,8 @@ https://godbolt.org/z/Kvfx9Yeox | Listing 18.20     You create a literal data ty
 https://godbolt.org/z/r1vYc7r5j | Listing 18.21     User-defined literals are especially useful with literal data types.
 https://godbolt.org/z/71fE4zKhj | Listing 19.1     Call-by-reference as a basis for polymorphism.
 https://godbolt.org/z/fdh4n5x84 | Listing 19.2     The Book class serves the reader and librarian actors.
+https://godbolt.org/z/Tq9xbGxs4 | Listing 19.3     The changes of an actor usually only take place in one class.
+https://godbolt.org/z/vxTsveGjT | Listing 19.4     Does not follow the open/closed principle.
+https://godbolt.org/z/M6hsYa7or | Listing 19.5     Follows the OCP.
+https://godbolt.org/z/rc67xWWfT | implement Rectangle in a natural way using origin point origin_, width width_, and height height_.
+https://godbolt.org/z/Gxh4edc8n | Listing 19.6     Covariance for return types.
