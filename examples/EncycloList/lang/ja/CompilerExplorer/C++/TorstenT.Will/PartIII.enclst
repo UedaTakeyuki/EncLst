@@ -1,1 +1,4 @@
 Part III   Advanced Topics
+
+https://godbolt.org/z/4536hxvEK | the address & and dereference operator * are omitted because the valueRef name itself is an alias
+https://godbolt.org/z/7GEWYeoc9 | Listing 20.1     Pointers can be assigned new addresses during their lifetime.
