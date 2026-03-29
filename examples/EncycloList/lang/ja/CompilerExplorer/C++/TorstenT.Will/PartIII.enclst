@@ -3,3 +3,4 @@ Part III   Advanced Topics
 https://godbolt.org/z/4536hxvEK | the address & and dereference operator * are omitted because the valueRef name itself is an alias
 https://godbolt.org/z/7GEWYeoc9 | Listing 20.1     Pointers can be assigned new addresses during their lifetime.
 https://godbolt.org/z/ehhGPjabz | Listing 20.4     In the following examples, I use Image as a class for which I want a pointer.
+https://godbolt.org/z/aTTejrnWE | Listing 20.5     unique_ptr as data field, return value, and local variable
