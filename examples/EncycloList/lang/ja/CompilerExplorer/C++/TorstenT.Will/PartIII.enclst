@@ -5,3 +5,5 @@ https://godbolt.org/z/7GEWYeoc9 | Listing 20.1     Pointers can be assigned new 
 https://godbolt.org/z/ehhGPjabz | Listing 20.4     In the following examples, I use Image as a class for which I want a pointer.
 https://godbolt.org/z/aTTejrnWE | Listing 20.5     unique_ptr as data field, return value, and local variable
 https://godbolt.org/z/4KP91z1bq | Listing 20.6     A game board with various objects.
+https://godbolt.org/z/Y4sMdzde8 | Listing 20.7     When a raw pointer owns an object, the potential errors are often hard to detect.
+https://godbolt.org/z/W4W61h4Kv | Listing 20.8     “primes” contains pointers to another container.
