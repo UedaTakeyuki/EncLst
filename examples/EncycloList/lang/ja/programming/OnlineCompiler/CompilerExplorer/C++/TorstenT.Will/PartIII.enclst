@@ -7,3 +7,20 @@ https://godbolt.org/z/aTTejrnWE | Listing 20.5     unique_ptr as data field, ret
 https://godbolt.org/z/4KP91z1bq | Listing 20.6     A game board with various objects.
 https://godbolt.org/z/Y4sMdzde8 | Listing 20.7     When a raw pointer owns an object, the potential errors are often hard to detect.
 https://godbolt.org/z/W4W61h4Kv | Listing 20.8     “primes” contains pointers to another container.
+https://godbolt.org/z/a5b6qMo9h | Listing 20.10     With raw pointers pointing to a C-array, you can perform arithmetic.
+https://godbolt.org/z/1qx16Gr61 | Listing 20.11     C-arrays decay to raw pointers as parameters.
+https://godbolt.org/z/h3q839x8r | Listing 20.12     “unique_ptr” works with the dynamic C-array.
+https://godbolt.org/z/s6sss481E | Whether you use the array brackets [] or the pointer asterisk * to declare your text constants rarely matters in practice.
+https://godbolt.org/z/oKsz7d55T | Listing 20.13     With “string”, you often don't even notice that text literals are “const char[]”.
+https://godbolt.org/z/4nqz4ed4W | Listing 20.14     Retrieve iterators with “begin” and “end”.
+https://godbolt.org/z/zsqKz76cj | Listing 20.15     You can use raw pointers like iterators.
+https://godbolt.org/z/xE1TWx1ve | Listing 20.16     Is it worth saving the release of memory?
+https://godbolt.org/z/j6WWxPheP | Listing 21.1     Lines containing preprocessor directives start with a #.
+https://godbolt.org/z/feGrM4f6j | Listing 21.2     Your main file with “main” includes the header file via “#include”.
+https://godbolt.org/z/W45G5TjTz | Listing 21.3     The result of the preprocessor run.
+https://godbolt.org/z/8j9j9KoWx | Listing 21.4     With “constexpr if”, you can switch between variants without a preprocessor.
+https://godbolt.org/z/jzKfabPh3 | Listing 21.5     The purely textual substitution leads to multiple executions in macros.
+https://godbolt.org/z/YzYz3x1zx | disastrous multiple execution
+https://godbolt.org/z/5zrfvovaW | MAX2 also works on int and even on string:
+https://godbolt.org/z/6xzTx83zE | overloading
+https://godbolt.org/z/acMjvxcM5 | Listing 21.6     A simple function template is much better than a macro.
