@@ -24,3 +24,7 @@ https://godbolt.org/z/YzYz3x1zx | disastrous multiple execution
 https://godbolt.org/z/5zrfvovaW | MAX2 also works on int and even on string:
 https://godbolt.org/z/6xzTx83zE | overloading
 https://godbolt.org/z/acMjvxcM5 | Listing 21.6     A simple function template is much better than a macro.
+https://godbolt.org/z/9Trh8h8Mb | Listing 22.1     The “gzpack.cpp” program uses a C library. Here you see the section with the includes.
+https://godbolt.org/z/Yh7j1WEGc | Listing 22.2     This part of “gzpack.cpp” contains all the C functions used.
+https://godbolt.org/z/84TcTbWjj | Listing 22.3     This part of “gzpack.cpp” handles reading and writing the files.
+https://godbolt.org/z/5bWx6PzdP | Listing 22.4     With “main” in “gzpack.cpp”, the example is complete.
