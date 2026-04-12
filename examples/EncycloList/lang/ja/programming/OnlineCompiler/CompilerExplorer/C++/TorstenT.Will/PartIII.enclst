@@ -28,3 +28,8 @@ https://godbolt.org/z/9Trh8h8Mb | Listing 22.1     The “gzpack.cpp” program 
 https://godbolt.org/z/Yh7j1WEGc | Listing 22.2     This part of “gzpack.cpp” contains all the C functions used.
 https://godbolt.org/z/84TcTbWjj | Listing 22.3     This part of “gzpack.cpp” handles reading and writing the files.
 https://godbolt.org/z/5bWx6PzdP | Listing 22.4     With “main” in “gzpack.cpp”, the example is complete.
+https://godbolt.org/z/aMPj3K7EE | Listing 23.1     The call to a function template works so long as the function body is valid with the template parameters.
+https://godbolt.org/z/816Ys17aT | Listing 23.2     With and without explicit type specification during the call.
+https://godbolt.org/z/c9xzM7EhP | Listing 23.3     A template parameter can also be a constant number.
+https://godbolt.org/z/fev879zaK | Listing 23.6     For “TYPE”, the compiler determines “const&”.
+https://godbolt.org/z/bfofn76Ke | Listing 23.7     A method can also be a template.
