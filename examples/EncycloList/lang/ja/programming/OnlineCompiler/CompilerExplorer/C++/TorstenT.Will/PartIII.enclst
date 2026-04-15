@@ -37,3 +37,7 @@ https://godbolt.org/z/oTn1K4sGG | Listing 23.8     You will also find various fu
 https://godbolt.org/z/h3baE65od | Listing 23.9     Pass your own algorithm ranges as arguments, not the container.
 https://godbolt.org/z/13eMxKTfj | Listing 23.10     Pass your own algorithm iterators as arguments, not the container.
 https://godbolt.org/z/r83Yeon7r | Listing 23.11     How to find the range of integer types.
+https://godbolt.org/z/q719j41er | Listing 23.13     Use the name of a suitable function as a function parameter.
+https://godbolt.org/z/c9Eh346cq | Listing 23.14     It doesn't matter whether you use the address operator when calling or not.
+https://godbolt.org/z/xvfvG8hrd | Listing 23.15     A class with “operator()” creates function objects.
+https://godbolt.org/z/MfKzd8bxa | Listing 23.16     A class with a normal method.
