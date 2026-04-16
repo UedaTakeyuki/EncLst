@@ -41,3 +41,11 @@ https://godbolt.org/z/q719j41er | Listing 23.13     Use the name of a suitable f
 https://godbolt.org/z/c9Eh346cq | Listing 23.14     It doesn't matter whether you use the address operator when calling or not.
 https://godbolt.org/z/xvfvG8hrd | Listing 23.15     A class with “operator()” creates function objects.
 https://godbolt.org/z/MfKzd8bxa | Listing 23.16     A class with a normal method.
+https://godbolt.org/z/3ch51ov87 | Listing 23.17     With “operator<” as a function, you can only implement one sort order.
+https://godbolt.org/z/PebG9bn9K | by the birth year
+https://godbolt.org/z/YKzsW49G8 | Listing 23.19     Many algorithms in the standard library also work with “operator<”.
+https://godbolt.org/z/eh6jnjK9z | Listing 23.20     With the capture clause, you can access external variables in the lambda.
+https://godbolt.org/z/j7qoMdG3n | Listing 23.21     The capture clause can also contain references.
+https://godbolt.org/z/zMWo69974 | Listing 23.22     “mutable” makes value captures in lambdas mutable.
+https://godbolt.org/z/8GxPMEc5o | Listing 23.23     If possible, better without mutable.
+https://godbolt.org/z/nenW8aM81 | introduced with C++20 is the ability to write a true template lambda
