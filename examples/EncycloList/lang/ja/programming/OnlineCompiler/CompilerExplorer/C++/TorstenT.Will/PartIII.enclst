@@ -49,3 +49,9 @@ https://godbolt.org/z/j7qoMdG3n | Listing 23.21     The capture clause can also 
 https://godbolt.org/z/zMWo69974 | Listing 23.22     “mutable” makes value captures in lambdas mutable.
 https://godbolt.org/z/8GxPMEc5o | Listing 23.23     If possible, better without mutable.
 https://godbolt.org/z/nenW8aM81 | introduced with C++20 is the ability to write a true template lambda
+https://godbolt.org/z/jP75nY4EW | Listing 23.24     Concepts can be written in different ways.
+https://godbolt.org/z/Kxrz5ETh6 | Listing 23.25     With concepts, you can restrict individual overloads.
+https://godbolt.org/z/eaGre4bqr | write a concept name instead of typename in the angle brackets <> of the template header or before the auto of an abbreviated function template
+https://godbolt.org/z/fxoo4h9Gj | Listing 23.26     Specify additional conditions with requires.
+https://godbolt.org/z/Tcxnr6jTM | Listing 23.27     Define recurring requirements with concept.
+https://godbolt.org/z/9qsGW6M8Y | use concepts together with using.
