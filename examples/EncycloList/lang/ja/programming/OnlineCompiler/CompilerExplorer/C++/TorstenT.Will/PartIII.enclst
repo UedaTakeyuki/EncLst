@@ -55,3 +55,7 @@ https://godbolt.org/z/eaGre4bqr | write a concept name instead of typename in th
 https://godbolt.org/z/fxoo4h9Gj | Listing 23.26     Specify additional conditions with requires.
 https://godbolt.org/z/Tcxnr6jTM | Listing 23.27     Define recurring requirements with concept.
 https://godbolt.org/z/9qsGW6M8Y | use concepts together with using.
+https://godbolt.org/z/jqzTMxYKv | Listing 23.29     A class template takes a type as a formal parameter.
+https://godbolt.org/z/4fK5WdoG8 | Listing 23.30     Method definitions outside the body of a class template are syntactically somewhat more complex.
+https://godbolt.org/z/M6earoWMn | Listing 23.31     Specializing class template methods like function templates.
+https://godbolt.org/z/9vP3o68bW | Listing 23.32     This is how you create instances from a template class.
