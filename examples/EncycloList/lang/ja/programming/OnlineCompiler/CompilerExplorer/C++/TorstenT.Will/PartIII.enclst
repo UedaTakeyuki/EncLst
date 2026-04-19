@@ -59,3 +59,9 @@ https://godbolt.org/z/jqzTMxYKv | Listing 23.29     A class template takes a typ
 https://godbolt.org/z/4fK5WdoG8 | Listing 23.30     Method definitions outside the body of a class template are syntactically somewhat more complex.
 https://godbolt.org/z/M6earoWMn | Listing 23.31     Specializing class template methods like function templates.
 https://godbolt.org/z/9vP3o68bW | Listing 23.32     This is how you create instances from a template class.
+https://godbolt.org/z/YaEW5aTra | Listing 23.33     Deduce template parameters from constructor arguments.
+https://godbolt.org/z/dMTnbT1v4 | own class template with multiple formal data types:
+https://godbolt.org/z/jbafeEdoW | With typename U=T, you set U to the default value T if only one data type is written in the angle brackets and the second argument is missing, as is the case with MyPair<double>. 
+https://godbolt.org/z/E89bav3rE | Class Templates with Nontype Parameters
+https://godbolt.org/z/9rzsh5366 | Partially Specializing Class Templates
+https://godbolt.org/z/baPeoTbM8 | Fully Specialize Class Template
