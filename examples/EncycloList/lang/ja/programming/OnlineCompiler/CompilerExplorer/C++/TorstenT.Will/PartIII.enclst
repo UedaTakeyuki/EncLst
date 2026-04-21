@@ -67,3 +67,5 @@ https://godbolt.org/z/9rzsh5366 | Partially Specializing Class Templates
 https://godbolt.org/z/baPeoTbM8 | Fully Specialize Class Template
 https://godbolt.org/z/eenKej9sj | Listing 23.35     A template with a variable number of arguments.
 https://godbolt.org/z/8oYaWYnbx | you can easily convert a parameter pack into a tuple using make_tuple
+https://godbolt.org/z/cjx49ef19 | Listing 23.36     Custom literal operators.
+https://godbolt.org/z/Mevoshb3o | Listing 23.37     Which literal leads to which operator call?
