@@ -69,3 +69,8 @@ https://godbolt.org/z/eenKej9sj | Listing 23.35     A template with a variable n
 https://godbolt.org/z/8oYaWYnbx | you can easily convert a parameter pack into a tuple using make_tuple
 https://godbolt.org/z/cjx49ef19 | Listing 23.36     Custom literal operators.
 https://godbolt.org/z/Mevoshb3o | Listing 23.37     Which literal leads to which operator call?
+https://godbolt.org/z/5rdzn8YP4 | Listing 23.38     A template for literals of exact length two.
+https://godbolt.org/z/sbxojqjqs | Listing 23.39     Recursive definition for arbitrary literal lengths.
+https://godbolt.org/z/KvsGh4f1v | Listing 23.40     The new if constexpr saves function specializations.
+https://godbolt.org/z/cPoEjqzM7 | Listing 23.41     Fold expressions make variadic templates simpler
+https://godbolt.org/z/Yd4sser5j | Listing 23.42     Whether preprocessed or raw is better depends on the application.
