@@ -1,1 +1,6 @@
 Part IV   The Standard Library
+
+https://godbolt.org/z/qGrYPrqYn | Listing 24.1     For parts of containers, use a pair of iterators, or if you use C++23, ranges.
+https://godbolt.org/z/M1d9jEP74 | Listing 24.2     A pair of iterators defines a range of elements.
+https://godbolt.org/z/Yv3vcxPv5 | Listing 24.3     Indirectly uses begin() and end() of the container.
+https://godbolt.org/z/babK485oT | The Listing 24.3 for is shorthand for the following:
