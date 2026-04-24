@@ -5,3 +5,7 @@ https://godbolt.org/z/M1d9jEP74 | Listing 24.2     A pair of iterators defines a
 https://godbolt.org/z/Yv3vcxPv5 | Listing 24.3     Indirectly uses begin() and end() of the container.
 https://godbolt.org/z/babK485oT | The Listing 24.3 for is shorthand for the following:
 https://godbolt.org/z/nj14e6Wq4 | find()
+https://godbolt.org/z/arfee3TTP |  how this previously looked with algorithms.
+https://godbolt.org/z/TG1qd31Mq | Listing 24.5     A pipeline of views instead of algorithms.
+https://godbolt.org/z/EdYfzzdEM | Listing 24.6     With C++23, you can use ranges::to.
+https://godbolt.org/z/veovKc8Kj | Listing 24.7     The from_range marker also exists only since C++23.
