@@ -9,3 +9,7 @@ https://godbolt.org/z/arfee3TTP |  how this previously looked with algorithms.
 https://godbolt.org/z/TG1qd31Mq | Listing 24.5     A pipeline of views instead of algorithms.
 https://godbolt.org/z/EdYfzzdEM | Listing 24.6     With C++23, you can use ranges::to.
 https://godbolt.org/z/veovKc8Kj | Listing 24.7     The from_range marker also exists only since C++23.
+https://godbolt.org/z/dxb98rWzo | Listing 24.8     For “const” objects, “begin()” and “end()” return a “const_iterator”.
+https://godbolt.org/z/7xYcqqh68 | Listing 24.9     Iterator adapters change the behavior of operations.
+https://godbolt.org/z/3dYhh6n5f | Listing 24.10     A (too) simple allocator and its usage.
+https://godbolt.org/z/c97qra3M7 | Listing 24.11     Type aliases are sometimes clearer than the concrete types.
