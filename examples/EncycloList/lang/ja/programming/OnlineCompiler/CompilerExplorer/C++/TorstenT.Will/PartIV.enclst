@@ -13,3 +13,5 @@ https://godbolt.org/z/dxb98rWzo | Listing 24.8     For “const” objects, “b
 https://godbolt.org/z/7xYcqqh68 | Listing 24.9     Iterator adapters change the behavior of operations.
 https://godbolt.org/z/3dYhh6n5f | Listing 24.10     A (too) simple allocator and its usage.
 https://godbolt.org/z/c97qra3M7 | Listing 24.11     Type aliases are sometimes clearer than the concrete types.
+https://godbolt.org/z/xcrbvM1jz | pair
+https://godbolt.org/z/WK86eaz1x | Listing 24.12     This is the template for the example listings in this section for vector.
