@@ -15,3 +15,6 @@ https://godbolt.org/z/3dYhh6n5f | Listing 24.10     A (too) simple allocator and
 https://godbolt.org/z/c97qra3M7 | Listing 24.11     Type aliases are sometimes clearer than the concrete types.
 https://godbolt.org/z/xcrbvM1jz | pair
 https://godbolt.org/z/WK86eaz1x | Listing 24.12     This is the template for the example listings in this section for vector.
+https://godbolt.org/z/7zMP5fo7c | Listing 24.13     The default constructor initializes an empty vector.
+https://godbolt.org/z/cE6G1aErs | Listing 24.14     Copying a vector using the constructor or implicitly.
+https://godbolt.org/z/fv5WEe97M | Listing 24.15     For return values, the compiler can often also move.
