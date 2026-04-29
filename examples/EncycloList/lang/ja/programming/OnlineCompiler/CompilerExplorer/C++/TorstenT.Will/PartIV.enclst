@@ -18,3 +18,8 @@ https://godbolt.org/z/WK86eaz1x | Listing 24.12     This is the template for the
 https://godbolt.org/z/7zMP5fo7c | Listing 24.13     The default constructor initializes an empty vector.
 https://godbolt.org/z/cE6G1aErs | Listing 24.14     Copying a vector using the constructor or implicitly.
 https://godbolt.org/z/fv5WEe97M | Listing 24.15     For return values, the compiler can often also move.
+https://godbolt.org/z/6rG393Wa5 | Listing 24.16     Using an initializer list to prefill a vector. Pay attention to the correct types in the list.
+https://godbolt.org/z/h8Pze74ME | Listing 24.17     Copy values from any other container or C-array during initialization.
+https://godbolt.org/z/addobjfsK | Listing 24.18     Preinitializing with a fixed number of values is (almost) only available with “vector”.
+https://godbolt.org/z/Yb4jEdaKj | Listing 24.19     You can assign to “vector” or reinitialize it later with “assign”.
+https://godbolt.org/z/freaK1Pea | Listing 24.20     With “begin”, “end”, and their relatives, you get iterators.
