@@ -23,3 +23,18 @@ https://godbolt.org/z/h8Pze74ME | Listing 24.17     Copy values from any other c
 https://godbolt.org/z/addobjfsK | Listing 24.18     Preinitializing with a fixed number of values is (almost) only available with “vector”.
 https://godbolt.org/z/Yb4jEdaKj | Listing 24.19     You can assign to “vector” or reinitialize it later with “assign”.
 https://godbolt.org/z/freaK1Pea | Listing 24.20     With “begin”, “end”, and their relatives, you get iterators.
+https://godbolt.org/z/srczx737G | Listing 24.21     With “vector” iterators, you can perform random access.
+https://godbolt.org/z/jjWx3d375 | Listing 24.22     Normally you access with [], because you already check the boundaries elsewhere.
+https://godbolt.org/z/jGx51caTj | Listing 24.23     Constant container returns constant reference.
+https://godbolt.org/z/s9P1Y6jhv | Listing 24.24     “insert” shifts all elements back by one here.
+https://godbolt.org/z/Kx1KcP65T | Listing 24.25     Use data() as an interface to C.
+https://godbolt.org/z/h7jf4KM1q | Listing 24.26     How to use span.
+https://godbolt.org/z/a3qqr1YPM | Listing 24.27     These are spans with fixed sizes.
+https://godbolt.org/z/6Ez5GdozG | Listing 24.28     You can also write through a “span”.
+https://godbolt.org/z/n6En49dsh | Listing 24.30     Typically, you append at the end in vector.
+https://godbolt.org/z/6836bdczd | delete a single element with erase:
+https://godbolt.org/z/fe8bev9Y9 | Listing 24.31     “erase” with two parameters deletes an entire range.
+https://godbolt.org/z/YzGK1WazE | Listing 24.32     Operations for the size and capacity of a “vector”.
+https://godbolt.org/z/Y1W8WfxYn | cannot write a single function that can handle different array sizes as parameters.
+https://godbolt.org/z/nqbKT9GEa | Listing 24.33     Different “arrays” as parameters require template programming.
+https://godbolt.org/z/PrM4fGcWo | Listing 24.34     Template for the example listings of this section on “array”.
