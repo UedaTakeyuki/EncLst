@@ -34,9 +34,17 @@ https://godbolt.org/z/6Ez5GdozG | Listing 24.28     You can also write through a
 https://godbolt.org/z/n6En49dsh | Listing 24.30     Typically, you append at the end in vector.
 https://godbolt.org/z/6836bdczd | delete a single element with erase:
 https://godbolt.org/z/fe8bev9Y9 | Listing 24.31     “erase” with two parameters deletes an entire range.
+https://godbolt.org/z/h6nrPYWfM | Listing 24.37     An array supports structured binding.
 https://godbolt.org/z/YzGK1WazE | Listing 24.32     Operations for the size and capacity of a “vector”.
 https://godbolt.org/z/Y1W8WfxYn | cannot write a single function that can handle different array sizes as parameters.
 https://godbolt.org/z/nqbKT9GEa | Listing 24.33     Different “arrays” as parameters require template programming.
 https://godbolt.org/z/PrM4fGcWo | Listing 24.34     Template for the example listings of this section on “array”.
 https://godbolt.org/z/7xY7eqj5Y | Listing 24.35     “fill” writes all values in an “array” at once.
 https://godbolt.org/z/KrbTrx1aG | Listing 24.36     “array” supports “get” from “tuple”.
+https://godbolt.org/z/j6EarszMT | Listing 24.38     Arrays can be compared lexicographically.
+https://godbolt.org/z/Ee5anM9as | Listing 24.39     We remove pairs from the front and back and compare.
+https://godbolt.org/z/d3ExcWP4a | Listing 24.40     What the “deque” can do!
+https://godbolt.org/z/so5Gebb4M | Listing 24.41     “splice” is the specialty of “list” and efficiently connects two lists.
+https://godbolt.org/z/9b9fY4Mve | Listing 24.42     You can use “before_begin” as an argument for “insert_after”.
+https://godbolt.org/z/andfoh18z | Listing 24.43     “erase_after” can delete a range of elements.
+https://godbolt.org/z/Ka47W5Wjh | Listing 24.44     “splice_after” can very efficiently merge lists.
