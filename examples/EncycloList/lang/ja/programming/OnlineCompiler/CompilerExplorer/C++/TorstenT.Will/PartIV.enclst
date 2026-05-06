@@ -48,3 +48,6 @@ https://godbolt.org/z/so5Gebb4M | Listing 24.41     “splice” is the specialt
 https://godbolt.org/z/9b9fY4Mve | Listing 24.42     You can use “before_begin” as an argument for “insert_after”.
 https://godbolt.org/z/andfoh18z | Listing 24.43     “erase_after” can delete a range of elements.
 https://godbolt.org/z/Ka47W5Wjh | Listing 24.44     “splice_after” can very efficiently merge lists.
+https://godbolt.org/z/7b8GaE9xT | Listing 24.45     This is the template for the example listings in this section on “set”.
+https://godbolt.org/z/jfdh3ddsz | Listing 24.46     If you define the comparison operation incorrectly, then “set” will no longer work.
+https://godbolt.org/z/xdPc51q5s | Listing 24.47     The comparison operation can group elements.
