@@ -51,3 +51,13 @@ https://godbolt.org/z/Ka47W5Wjh | Listing 24.44     “splice_after” can very 
 https://godbolt.org/z/7b8GaE9xT | Listing 24.45     This is the template for the example listings in this section on “set”.
 https://godbolt.org/z/jfdh3ddsz | Listing 24.46     If you define the comparison operation incorrectly, then “set” will no longer work.
 https://godbolt.org/z/xdPc51q5s | Listing 24.47     The comparison operation can group elements.
+https://godbolt.org/z/W9sK4jnzK | Listing 24.48     A custom spaceship operator for “set” compatibility.
+https://godbolt.org/z/c8a9qPoPP | Listing 24.49     There are various ways to specify a comparator.
+https://godbolt.org/z/oc9xxev95 | Listing 24.50     There are again several ways to specify elements when constructing.
+https://godbolt.org/z/1dTPEd3nP | move instead of copy
+https://godbolt.org/z/8eGvWY45o | moving
+https://godbolt.org/z/ozMY86ns8 | Listing 24.51     Instead of “assign” you can use the copy-and-swap idiom.
+https://godbolt.org/z/8nj7vfeba | Listing 24.52     To insert a single element, use “insert” or “emplace”.
+https://godbolt.org/z/qzaj79bor | Listing 24.53     You can reuse the return value when inserting sorted ranges.
+https://godbolt.org/z/h1G8v86jv | Listing 24.54     Use the same insert for sequential and associative containers.
+https://godbolt.org/z/rTvovhr5M | Listing 24.55     You can also insert multiple elements.
