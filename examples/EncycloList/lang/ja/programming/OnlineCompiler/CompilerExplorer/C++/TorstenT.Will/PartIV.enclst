@@ -61,3 +61,6 @@ https://godbolt.org/z/8nj7vfeba | Listing 24.52     To insert a single element, 
 https://godbolt.org/z/qzaj79bor | Listing 24.53     You can reuse the return value when inserting sorted ranges.
 https://godbolt.org/z/h1G8v86jv | Listing 24.54     Use the same insert for sequential and associative containers.
 https://godbolt.org/z/rTvovhr5M | Listing 24.55     You can also insert multiple elements.
+https://godbolt.org/z/MW74f97f7 | Listing 24.56     These are the “set” search functions.
+https://godbolt.org/z/zEsxd8e7G | Listing 24.57     You can search with nonidentical keys if they are equivalent.
+https://godbolt.org/z/dh8Yqx6c4 | Listing 24.58     “erase” deletes one or more elements.
